@@ -1,0 +1,13 @@
+{
+  "name": "uk-hillsborough-panel",
+  "title": "The Report of the Hillsborough Independent Panel",
+  "resources": [
+    {
+      "title": "The Report of the Hillsborough Independent Panel (HC 581)",
+      "path": "archive/hillsborough-panel-report.pdf",
+      "format": "pdf",
+      "mediatype": "application/pdf",
+      "sources": [{ "web": "https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/229038/0581.pdf" }]
+    }
+  ]
+}
