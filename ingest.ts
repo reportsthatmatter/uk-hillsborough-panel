@@ -1,4 +1,4 @@
-import { pipeline, runningFurniture, quoteInset } from "@rtm/ingest";
+import { pipeline, runningFurniture, quoteInset, numberedParagraphs } from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -18,5 +18,6 @@ export default pipeline({
       sha256: "8dbea5f6fa8c565f4c69c9390637d8903b236dc85e1fc63bbc54ae0248b90d8e",
     },
   ],
-  passes: [runningFurniture(), quoteInset(10)],
+  // Numbered "1.1", "1.2" paragraphs (reportsthatmatter-hzf).
+  passes: [runningFurniture(), quoteInset(10), numberedParagraphs()],
 });
