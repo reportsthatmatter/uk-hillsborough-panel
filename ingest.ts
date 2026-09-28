@@ -1,4 +1,12 @@
-import { pipeline, runningFurniture, quoteInset, numberedParagraphs } from "@rtm/ingest";
+import {
+  pipeline,
+  runningFurniture,
+  quoteInset,
+  numberedParagraphs,
+  listedHeadings,
+  numberedHeadings,
+  allCapsHeadings,
+} from "@rtm/ingest";
 
 /**
  * How this report is built. Owned by the report: every decision that shaped
@@ -18,6 +26,25 @@ export default pipeline({
       sha256: "8dbea5f6fa8c565f4c69c9390637d8903b236dc85e1fc63bbc54ae0248b90d8e",
     },
   ],
-  // Numbered "1.1", "1.2" paragraphs (reportsthatmatter-hzf).
-  passes: [runningFurniture(), quoteInset(10), numberedParagraphs()],
+  // Numbered "1.1", "1.2" paragraphs (reportsthatmatter-hzf). Chapter and
+  // part headings are set by colour and size only, with no textual
+  // convention pdftotext preserves — they were being stripped outright as
+  // running-header furniture, since the same title recurs verbatim as the
+  // header on every later page of that chapter. numbersTrackPages keeps
+  // that stripped only where the furniture's own number tracks the page (a
+  // real running header), recovering the one true occurrence — the chapter
+  // opening itself — as a heading (reportsthatmatter-r19).
+  passes: [
+    runningFurniture({ numbersTrackPages: true }),
+    quoteInset(10),
+    numberedParagraphs(),
+    // The report quotes press cuttings ("SHAME OF BOOZY YOBS") and legal
+    // memorials with their own numbered paragraphs ("18. TO HER MAJESTY'S
+    // ATTORNEY GENERAL...") that read as headings on their own. The
+    // structure is Parts, Chapters and Appendices, never a numbered or
+    // all-caps line, so only a heading the contents lists is kept.
+    numberedHeadings(false),
+    allCapsHeadings(false),
+    listedHeadings(),
+  ],
 });
