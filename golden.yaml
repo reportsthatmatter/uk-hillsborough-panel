@@ -1,0 +1,104 @@
+# Golden pages: ground truth for this report, read off the PDF page image and checked by `pnpm ingest verify`.
+# Format and rules: @rtm/ingest src/golden.ts and the site's docs/quality-harness.md ("Golden pages").
+# A page marked xfail is a known pipeline defect: it stays red here, verify stays green, and the bead says why.
+# Headings are maroon sans-serif (18-45pt) in a 14pt black body; notes are numbered "53." at the foot of the page.
+pages:
+  # Two maroon subheads inside the Part 1 chronology, and twelve numbered paragraphs (1.28-1.37). No notes.
+  - pdf: 34
+    printed: 30
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    note: "agrees with reference/adjudicated.yaml: page 35 opens a new block (split)"
+    features: [I, ordinary]
+    xfail: reportsthatmatter-a8l
+    xfail_only: [blocks]
+    blocks:
+      - heading: "Ibrox Park 1971 and the Wheatley Report"
+      - paragraph: {start: "1.28 In January 1971 66 spectators died", end: "at the foot of the stairwell."}
+      - paragraph: {start: "1.29 The Ibrox tragedy, the second in its history", end: "(known as ‘the Green Guide’)."}
+      - paragraph: {start: "1.30 Lord Wheatley warned club owners", end: "as a consequence."}
+      - paragraph: {start: "1.31 The Green Guide, first issued by the Home Office in 1976", end: "to clear rubbish."}
+      - heading: "Bradford 1985 and the Popplewell Report"
+      - paragraph: {start: "1.32 On 11 May 1985 the fear voiced in the Green Guide", end: "beneath the stands."}
+      - paragraph: {start: "1.33 The rubbish had accumulated over three decades", end: "seriously injured."}
+      - paragraph: {start: "1.34 A Committee of Inquiry into Crowd Safety", end: "was provided."}
+      - paragraph: {start: "1.35 The Popplewell Report also considered", end: "during the game’."}
+      - paragraph: {start: "1.36 The Report expressed concern that police forces", end: "before a football match’."}
+      - paragraph: {start: "1.37 Given the clear safety guidelines established", end: "other leisure venues."}
+    footnotes: []
+    markers: []
+  # A page with one maroon subhead among ten numbered paragraphs; the last runs on.
+  - pdf: 36
+    printed: 32
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I, ordinary]
+    xfail: reportsthatmatter-a8l
+    xfail_only: [blocks]
+    blocks:
+      - paragraph: {start: "1.47 It was well established that spectators gravitated", end: "sought to eliminate was compounded."}
+      - paragraph: {start: "1.48 An added complication for semi-final matches", end: "within the stadium."}
+      - paragraph: {start: "1.49 Spectators were visiting unfamiliar locations", end: "surrounding the stadium."}
+      - paragraph: {start: "1.50 As major events in the sporting calendar", end: "well-known practice."}
+      - heading: "Hillsborough Stadium"
+      - paragraph: {start: "1.51 Hillsborough Football Stadium opened in 1899", end: "west and north flanks."}
+      - paragraph: {start: "1.52 Considered one of England’s leading football grounds", end: "Safety of Sports Grounds Act 1975."}
+      - paragraph: {start: "1.53 The Act was a response to the Wheatley Report", end: "made in the Popplewell Report."}
+      - paragraph: {start: "1.54 In 1981, following serious crushing", end: "on the perimeter track."}
+      - paragraph: {start: "1.55 Modifications to the Leppings Lane terrace", end: "resulting in five pens."}
+      - paragraph: {start: "1.56 The two central pens were fed from the rear", continues: true}
+    footnotes: []
+    markers: []
+  # Chapter opener (Part 2, Chapter 1): a two-line maroon chapter title, an "Introduction" subhead, three paragraphs; the running foot is furniture.
+  - pdf: 64
+    printed: 61
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I, K]
+    xfail: reportsthatmatter-a8l
+    xfail_only: [blocks]
+    blocks:
+      - heading: "Chapter 1 1981–1989: unheeded warnings, the seeds of disaster"
+      - heading: "Introduction"
+      - paragraph: {start: "2.1.1 When disasters occur it is rare that causation", end: "should it occur."}
+      - paragraph: {start: "2.1.2 While the Panel’s work focuses on a disaster", end: "were also important factors."}
+      - paragraph: {start: "2.1.3 Following the 1989 disaster considerable evidence", end: "no longer exists."}
+    footnotes: []
+    markers: []
+  # Chapter 2 opener: the title "The ‘moment’ of 1989" is cut at "of" in the pipeline's heading.
+  - pdf: 90
+    printed: 87
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [I]
+    xfail: reportsthatmatter-a8l
+    xfail_only: [blocks, must_read]
+    blocks:
+      - heading: "Chapter 2 The ‘moment’ of 1989"
+      - heading: "Introduction"
+      - paragraph: {start: "2.2.1 Part 1 of this Report establishes", end: "Liverpool and Nottingham Forest."}
+      - paragraph: {start: "2.2.2 The strong assertion made in previous reports", end: "reviewed in the previous chapter."}
+      - paragraph: {start: "2.2.3 The decision by the Football Association (FA)", end: "semi-final venues."}
+      - paragraph: {start: "2.2.4 Issues of concern, not least the chilled relationship", end: "had not been made public."}
+      - paragraph: {start: "2.2.5 Relying on limited documentary disclosure", end: "nor were they recorded."}
+      - paragraph: {start: "2.2.6 In retrospect, as the previous chapter demonstrates", end: "radial fences."}
+      - paragraph: {start: "2.2.7 Despite this, the FA had been reassured", end: "the same two clubs were involved."}
+    footnotes: []
+    markers: []
+    must_read: ["The ‘moment’ of 1989"]
+  # Eight numbered paragraphs with nine superscript markers, a maroon subhead "After the crush", and notes 53-60 numbered "53." at the foot.
+  - pdf: 100
+    printed: 97
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    features: [E, F, I]
+    xfail: reportsthatmatter-a8l, reportsthatmatter-b94
+    xfail_only: [blocks, footnotes, markers, must_not_contain]
+    blocks:
+      - paragraph: {start: "2.2.76 There remains some discrepancy about who opened Gate B", end: "crush outside.", notes: [53, 54]}
+      - paragraph: {start: "2.2.77 By 2.45pm the tunnel was three-quarters full", end: "side of the west stand’.", notes: [55, 56]}
+      - heading: "After the crush"
+      - paragraph: {start: "2.2.78 Supt Murray later reflected that", end: "to stop the match.", notes: [57]}
+      - paragraph: {start: "2.2.79 Once he became aware that Supt Greenwood", end: "go to the pens to investigate."}
+      - paragraph: {start: "2.2.80 Meanwhile, Supt Greenwood was unaware", end: "this was not possible."}
+      - paragraph: {start: "2.2.81 Supt Greenwood waved to the Control Box", end: "rescue and evacuation.", notes: [58]}
+      - paragraph: {start: "2.2.82 An urgent radio message requested all available officers", end: "could be fatalities.", notes: [59]}
+      - paragraph: {start: "2.2.83 On Supt Murray’s arrival back at the Control Box", end: "not carrying a radio.", notes: [60]}
+    footnotes: [53, 54, 55, 56, 57, 58, 59, 60]
+    markers: [53, 54, 55, 56, 57, 58, 59, 60]
+    must_not_contain: ["Recollection of PC Smith, 19 April 1989, SYP000096810001"]
