@@ -1,0 +1,34 @@
+{
+  "report": "uk-hillsborough-panel",
+  "set": "held-out",
+  "edition": "The PDF's own structure tree (tagged PDF, InDesign styles)",
+  "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
+  "fetched": "2026-10-02",
+  "sources": [
+    {
+      "path": "archive/hillsborough-panel-report.pdf",
+      "sha256": "8dbea5f6fa8c565f4c69c9390637d8903b236dc85e1fc63bbc54ae0248b90d8e",
+      "bytes": 7121396
+    }
+  ],
+  "sources_note": "The reference is derived from the source PDF already in archive/, so no copy is kept under reference/raw/.",
+  "blocks": {
+    "path": "reference/blocks.jsonl",
+    "sha256": "46c035cb19cd564923b18cfd3c22e353201afb1e697925e38449be9594f7c611",
+    "normaliser": "reportsthatmatter scripts/score/reference.py, adapter tagged, version 1",
+    "built": "2026-10-02",
+    "counts": {
+      "heading": 372,
+      "note": 392,
+      "paragraph": 2348
+    },
+    "markers": 0,
+    "markers_linked": 0,
+    "words": 199383
+  },
+  "caveats": [
+    "One /P element holds all the paragraphs between headings on a page: split at printed paragraph numbers (2.1.60), so unnumbered paragraphs inside one element are not separated.",
+    "Every page-bottom fragment is its own /P: an element opening in lower case is joined to the one before; one opening on a capital is not.",
+    "Footnotes are plain /P (typed as notes when they read as numbered citations); markers are not linked, so marker metrics are empty."
+  ]
+}
