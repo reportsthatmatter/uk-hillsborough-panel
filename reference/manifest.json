@@ -1,7 +1,7 @@
 {
   "report": "uk-hillsborough-panel",
   "set": "held-out",
-  "edition": "The PDF's own structure tree (tagged PDF, InDesign styles)",
+  "edition": "The panel website's HTML (Wayback captures, 2013-2016) where captured, and the PDF's own structure tree (tagged PDF, InDesign styles) for the rest",
   "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
   "fetched": "2026-10-02",
   "sources": [
@@ -9,26 +9,748 @@
       "path": "archive/hillsborough-panel-report.pdf",
       "sha256": "8dbea5f6fa8c565f4c69c9390637d8903b236dc85e1fc63bbc54ae0248b90d8e",
       "bytes": 7121396
+    },
+    {
+      "path": "reference/raw/part-1-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-1/",
+      "sha256": "c42097156f0211d85d7222715d2043ff3acafe1b030fe4c94cc2c524753cb59c",
+      "bytes": 21670,
+      "captured": "https://web.archive.org/web/20170627041101id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-1/"
+    },
+    {
+      "path": "reference/raw/part-1-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-3/",
+      "sha256": "00c4e3959f13b5088aa976777a5c2190676d340f6bee09019045c4cfb5c7c412",
+      "bytes": 20751,
+      "captured": "https://web.archive.org/web/20160619121943id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-3/"
+    },
+    {
+      "path": "reference/raw/part-1-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-4/",
+      "sha256": "3f66d42d0ed6fec8a6a6efbad67b1bc981e3418b1a31790e6ca9decf11f38eee",
+      "bytes": 29611,
+      "captured": "https://web.archive.org/web/20170520224152id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-4/"
+    },
+    {
+      "path": "reference/raw/part-1-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-5/",
+      "sha256": "568c403c8cc24242e669cf6e07f96f53314e43872b9e74b620b6391c9a22862a",
+      "bytes": 26496,
+      "captured": "https://web.archive.org/web/20180329234356id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-5/"
+    },
+    {
+      "path": "reference/raw/part-1-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-6/",
+      "sha256": "9012b2b93fe392dc636e6f4d9a8f48baaaae79fd60731e13b9f0e705efaa52d9",
+      "bytes": 21357,
+      "captured": "https://web.archive.org/web/20160629131146id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-6/"
+    },
+    {
+      "path": "reference/raw/part-1-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-7/",
+      "sha256": "a89295e7910e4102b1abeda5262f83fe520254a058865015f206d61853e4919c",
+      "bytes": 26529,
+      "captured": "https://web.archive.org/web/20160701090330id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-7/"
+    },
+    {
+      "path": "reference/raw/part-1-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-8/",
+      "sha256": "1e5ddba632893cd92d859116de5d06dcac5ae87538af6d7049eb194584322e68",
+      "bytes": 22406,
+      "captured": "https://web.archive.org/web/20160701083421id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-8/"
+    },
+    {
+      "path": "reference/raw/part-1-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-9/",
+      "sha256": "d1bfe9359a0f886bb42dbeeaf0fabba4180e52cd6b1fa3acf10fa1dd4ef3e9a5",
+      "bytes": 22183,
+      "captured": "https://web.archive.org/web/20160802142615id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-9/"
+    },
+    {
+      "path": "reference/raw/part-1-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-10/",
+      "sha256": "0c42869966c687b0b7971c51dfbcc1f7f5d657ad9472fd3a31f2900770fdd236",
+      "bytes": 23420,
+      "captured": "https://web.archive.org/web/20160802194237id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-10/"
+    },
+    {
+      "path": "reference/raw/part-1-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-11/",
+      "sha256": "9b3e9f466198c7e643251ec69b103d37d31589e2cd269aab62e755eb09c3c4c8",
+      "bytes": 25890,
+      "captured": "https://web.archive.org/web/20160802191408id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-11/"
+    },
+    {
+      "path": "reference/raw/part-1-page-12.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-12/",
+      "sha256": "3e926c6ae1294fdb783f21aa91c4708f2e689499d98081298498ebb39db4d81a",
+      "bytes": 18702,
+      "captured": "https://web.archive.org/web/20160701054128id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-12/"
+    },
+    {
+      "path": "reference/raw/part-1-page-13.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-13/",
+      "sha256": "32b92951548a37e45c3ff273e5d02c3bfa0d40f152729b953e33cf564fb51db1",
+      "bytes": 24766,
+      "captured": "https://web.archive.org/web/20160703051546id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-13/"
+    },
+    {
+      "path": "reference/raw/ch1-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-1/",
+      "sha256": "692a5045e6fdf60cad8002f0a383f1c6c749d38c6a27237b804090c4ddd28f64",
+      "bytes": 17519,
+      "captured": "https://web.archive.org/web/20160701051223id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-1/"
+    },
+    {
+      "path": "reference/raw/ch1-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-2/",
+      "sha256": "c19c1ba95dedc10c84fed6cdccc69c20173655bb0cd461887b4f581c0af03e6d",
+      "bytes": 25838,
+      "captured": "https://web.archive.org/web/20180613151952id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-2/"
+    },
+    {
+      "path": "reference/raw/ch1-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-3/",
+      "sha256": "d12fa920b4e065780c6c4b4b7f844bb26cb6db3dd769f597544574a5e514c356",
+      "bytes": 24778,
+      "captured": "https://web.archive.org/web/20180613152001id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-3/"
+    },
+    {
+      "path": "reference/raw/ch1-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-4/",
+      "sha256": "c95bdca3d04b8a81676bfdb6168fb56d36880e4e3ef57a77673b8fefca68ce24",
+      "bytes": 26491,
+      "captured": "https://web.archive.org/web/20180613145420id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-4/"
+    },
+    {
+      "path": "reference/raw/ch1-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-5/",
+      "sha256": "886a60e3b9872e7136a1ae448ecabfbcdea9e79756cc10f170fb940c849ef7ef",
+      "bytes": 29232,
+      "captured": "https://web.archive.org/web/20180613152141id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-5/"
+    },
+    {
+      "path": "reference/raw/ch1-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-6/",
+      "sha256": "24533c4c4f100ff1a488aefff725abcf8a260fc41dceacf9b4612d838eb19455",
+      "bytes": 36110,
+      "captured": "https://web.archive.org/web/20180613153001id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-6/"
+    },
+    {
+      "path": "reference/raw/ch1-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-7/",
+      "sha256": "c01e4d0a8f79b14c18a5f8a71a889b698fef7bba184ff433d3a89b95759b57e7",
+      "bytes": 25088,
+      "captured": "https://web.archive.org/web/20140820224455id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-7/"
+    },
+    {
+      "path": "reference/raw/ch1-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-8/",
+      "sha256": "486367831320787ba98d4b9bc5b6c24f1f76c6eb5e7d94db89a0beda174f1478",
+      "bytes": 22803,
+      "captured": "https://web.archive.org/web/20151016191259id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-8/"
+    },
+    {
+      "path": "reference/raw/ch1-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-9/",
+      "sha256": "4bd7681748150304e42c20d1a661c73f1cadd21c68a055e51f364e7efd0bab42",
+      "bytes": 23921,
+      "captured": "https://web.archive.org/web/20180408194433id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-9/"
+    },
+    {
+      "path": "reference/raw/ch1-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-10/",
+      "sha256": "3e6c8b94515ed75985bbb96e2110b55853b53439985aeae39de601c0be0106f2",
+      "bytes": 30075,
+      "captured": "https://web.archive.org/web/20160802152003id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-10/"
+    },
+    {
+      "path": "reference/raw/ch1-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-11/",
+      "sha256": "af750cddef589ef52f559fb478513b4db968b76085b4aeb2348cb4db4d939176",
+      "bytes": 20076,
+      "captured": "https://web.archive.org/web/20180303225646id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-1/page-11/"
+    },
+    {
+      "path": "reference/raw/ch2-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-1/",
+      "sha256": "e739fb647ff66d30d4a028a04312bcb05a89e1597f7d3a860681ac83c7462e91",
+      "bytes": 18445,
+      "captured": "https://web.archive.org/web/20140906032556id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-1/"
+    },
+    {
+      "path": "reference/raw/ch2-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-2/",
+      "sha256": "553a47ef9f3f4be3891aabc541ee325301fccb5cd4eb7252be7930c48847738d",
+      "bytes": 26604,
+      "captured": "https://web.archive.org/web/20160619085543id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-2/"
+    },
+    {
+      "path": "reference/raw/ch2-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-3/",
+      "sha256": "ba20e56d2d6e484c3794bfd4ae0016808d5b108e74f25f1a78e040ae105ddb06",
+      "bytes": 20544,
+      "captured": "https://web.archive.org/web/20160802142620id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-3/"
+    },
+    {
+      "path": "reference/raw/ch2-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-4/",
+      "sha256": "86ef0ee38f21da24b843dc4840c02e0cd89a276653d846713ac96f5d4e21f913",
+      "bytes": 21267,
+      "captured": "https://web.archive.org/web/20160701051721id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-4/"
+    },
+    {
+      "path": "reference/raw/ch2-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-5/",
+      "sha256": "c9fbb2818b3bd7863db56a3f03bfd87da9c4590482eed648a89d7ca1193dfdad",
+      "bytes": 23617,
+      "captured": "https://web.archive.org/web/20160802144439id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-5/"
+    },
+    {
+      "path": "reference/raw/ch2-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-6/",
+      "sha256": "7309253c4d864c5e2ddfcda9ef2a056176d8b499bffb1e04beb7fd8a618911fb",
+      "bytes": 25165,
+      "captured": "https://web.archive.org/web/20160701061757id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-6/"
+    },
+    {
+      "path": "reference/raw/ch2-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-7/",
+      "sha256": "ab608c691ae85408114e425f4b8ba7b4052c3d4557e26f11426e1a95474c511f",
+      "bytes": 27489,
+      "captured": "https://web.archive.org/web/20160802164915id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-7/"
+    },
+    {
+      "path": "reference/raw/ch2-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-8/",
+      "sha256": "fc2cbbbd54757c052e915c91a16fc247475cf9f8f915b0c8d8fbdcbfc01c4ed6",
+      "bytes": 19754,
+      "captured": "https://web.archive.org/web/20160701051727id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-2/page-8/"
+    },
+    {
+      "path": "reference/raw/ch3-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-1/",
+      "sha256": "be81bcdacf81a1d0b9b2944e978df8390179214c263fc28475a51713f4b56ac6",
+      "bytes": 18098,
+      "captured": "https://web.archive.org/web/20160802195040id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-1/"
+    },
+    {
+      "path": "reference/raw/ch3-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-2/",
+      "sha256": "dc543a22822739a50689e4c88668ce23b009e31f887e9b87698fcf360a8f80a5",
+      "bytes": 23780,
+      "captured": "https://web.archive.org/web/20160713150709id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-2/"
+    },
+    {
+      "path": "reference/raw/ch3-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-3/",
+      "sha256": "7c0e4d36bfcec90400371f1fd7764980da5056d8380035a1e537a5ac62e3cba4",
+      "bytes": 25450,
+      "captured": "https://web.archive.org/web/20160703121455id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-3/"
+    },
+    {
+      "path": "reference/raw/ch3-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-4/",
+      "sha256": "d8c474c6c9c930dcdc3309c3dadcbc1340a50a00b7cfb0cedc8fd6a3db595670",
+      "bytes": 30299,
+      "captured": "https://web.archive.org/web/20160701030236id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-4/"
+    },
+    {
+      "path": "reference/raw/ch3-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-5/",
+      "sha256": "97ff708dd8fe24cc999d774d79e08e818721e69e8da19b90c025387800997a7d",
+      "bytes": 30032,
+      "captured": "https://web.archive.org/web/20160710121204id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-5/"
+    },
+    {
+      "path": "reference/raw/ch3-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-6/",
+      "sha256": "c295be2b44af7e897b1b3c6b2de6325943d1b532c30580dc8b24c5464efefde1",
+      "bytes": 21048,
+      "captured": "https://web.archive.org/web/20160701030241id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-6/"
+    },
+    {
+      "path": "reference/raw/ch3-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-7/",
+      "sha256": "0281fec7c1823f7e921e6a1146b270cb59d8f932dcf7155925924f3ca451932c",
+      "bytes": 20961,
+      "captured": "https://web.archive.org/web/20160802201030id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-7/"
+    },
+    {
+      "path": "reference/raw/ch3-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-8/",
+      "sha256": "d631e1b6dcccc6da22854ff18f637753814597c46c219afac83a32a8ba2d27eb",
+      "bytes": 25776,
+      "captured": "https://web.archive.org/web/20160710172625id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-8/"
+    },
+    {
+      "path": "reference/raw/ch3-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-9/",
+      "sha256": "ff261db51dcd8d2936de7123bd114bcf40c355631be3c1162e76525eabba6139",
+      "bytes": 27947,
+      "captured": "https://web.archive.org/web/20160703130709id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-9/"
+    },
+    {
+      "path": "reference/raw/ch4-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/page-2/",
+      "sha256": "28b72948c711e13aaa33792b510ed336afffa1b66d64c97c6490954607c72b3d",
+      "bytes": 17574,
+      "captured": "https://web.archive.org/web/20160326154126id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/page-2/"
+    },
+    {
+      "path": "reference/raw/ch4-page-12.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/page-12/",
+      "sha256": "40d8945dae279312db61eced8cc5093e054b6efbadc7bec0407e164d56edcfea",
+      "bytes": 30158,
+      "captured": "https://web.archive.org/web/20160324203257id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/page-12/"
+    },
+    {
+      "path": "reference/raw/ch4-page-13.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/page-13/",
+      "sha256": "d65578fc3d6853e17164d99f3926336c9c8246ecf0c1d2b770b2a4babb18e4ee",
+      "bytes": 21229,
+      "captured": "https://web.archive.org/web/20160513124359id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/page-13/"
+    },
+    {
+      "path": "reference/raw/ch5-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-1/",
+      "sha256": "a4d840a04c7babf3b3cb4f7de33199cdb8f2c8e020bafcf1199513e6520da7a3",
+      "bytes": 21063,
+      "captured": "https://web.archive.org/web/20140906154302id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-1/"
+    },
+    {
+      "path": "reference/raw/ch5-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-2/",
+      "sha256": "535e7c5b0287b80cb4085082dddbd75d1ddf3bb3e2b71601baf86476deadd6e9",
+      "bytes": 23545,
+      "captured": "https://web.archive.org/web/20170523010210id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-2/"
+    },
+    {
+      "path": "reference/raw/ch5-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-3/",
+      "sha256": "24f16b631f00e3e599771b0a7d3317e1347a5fb2280b072c31a7c5bec67554cc",
+      "bytes": 19184,
+      "captured": "https://web.archive.org/web/20170523010048id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-3/"
+    },
+    {
+      "path": "reference/raw/ch5-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-4/",
+      "sha256": "542db63fb14559d8f996d8b1bc86373f9e01e2ad14d1db81ce2a44e252d12dd3",
+      "bytes": 22550,
+      "captured": "https://web.archive.org/web/20170523005753id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-4/"
+    },
+    {
+      "path": "reference/raw/ch5-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-5/",
+      "sha256": "dcbfa8696a84fb624d3fc5f83bc82fd9410ecd24625ae363387538b4f296f166",
+      "bytes": 19351,
+      "captured": "https://web.archive.org/web/20170523010250id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-5/"
+    },
+    {
+      "path": "reference/raw/ch5-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-6/",
+      "sha256": "5eacae427c382d82ff4cbfe5aeda6ac33a368e100403db9a56c9b19ba19b97f2",
+      "bytes": 19646,
+      "captured": "https://web.archive.org/web/20170523005816id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-6/"
+    },
+    {
+      "path": "reference/raw/ch5-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-7/",
+      "sha256": "78fcba6db48936684b1bfe7ba823ec0e2a1c156a60ae79885acd03e66a64a253",
+      "bytes": 17645,
+      "captured": "https://web.archive.org/web/20160703165327id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-7/"
+    },
+    {
+      "path": "reference/raw/ch5-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-8/",
+      "sha256": "f5290d0a5c96f019a835f4cd9f5c4e25d44e66de6a6144814abfcaf5510e5d0c",
+      "bytes": 25685,
+      "captured": "https://web.archive.org/web/20160802200148id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-8/"
+    },
+    {
+      "path": "reference/raw/ch5-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-9/",
+      "sha256": "e6e99573a09084135b8cc7aab108a69b0f8f88a10811ff4a79c77250b8297e7c",
+      "bytes": 25157,
+      "captured": "https://web.archive.org/web/20160703090507id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-9/"
+    },
+    {
+      "path": "reference/raw/ch5-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-10/",
+      "sha256": "dc9cf055d1929cf8925165b5555be25ca5a0ff4c6d38c89b2de52fd668500a45",
+      "bytes": 20538,
+      "captured": "https://web.archive.org/web/20160703080822id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-10/"
+    },
+    {
+      "path": "reference/raw/ch5-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-11/",
+      "sha256": "edfbe0bcf8a4ee4d21874ea63d3d52eaa60adbb5c64123e63fe3840bd0815535",
+      "bytes": 16601,
+      "captured": "https://web.archive.org/web/20160703145026id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-11/"
+    },
+    {
+      "path": "reference/raw/ch5-page-12.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-12/",
+      "sha256": "6890f259b801ef41eaf733c30dc54566ad9a5ffb9fd74b3fcb8ebdcc7c5db907",
+      "bytes": 18953,
+      "captured": "https://web.archive.org/web/20160710101306id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-12/"
+    },
+    {
+      "path": "reference/raw/ch5-page-13.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-13/",
+      "sha256": "aecc074ddaecc9aa52120b3bbca32d1b63891b63888495aa2cf2a0ccb35a2de9",
+      "bytes": 18718,
+      "captured": "https://web.archive.org/web/20160728055815id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-5/page-13/"
+    },
+    {
+      "path": "reference/raw/ch6-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-1/",
+      "sha256": "46064a9fead1243fd0310e190e1e70272b2bcc8d500f9f9b5703abefb69abb08",
+      "bytes": 18872,
+      "captured": "https://web.archive.org/web/20160728050921id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-1/"
+    },
+    {
+      "path": "reference/raw/ch6-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-2/",
+      "sha256": "06ed8a078fe1e1c6e3fc40261596a96d45fcb14f3d8611a961ba482faa9814a1",
+      "bytes": 32661,
+      "captured": "https://web.archive.org/web/20160725221539id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-2/"
+    },
+    {
+      "path": "reference/raw/ch6-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-3/",
+      "sha256": "e0038555b7cf7c85101cda1786d8e695b8faa091eb25a86b036813cfc7928e44",
+      "bytes": 21979,
+      "captured": "https://web.archive.org/web/20160802175048id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-3/"
+    },
+    {
+      "path": "reference/raw/ch6-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-4/",
+      "sha256": "f463020166b4d7d679c56abf7712ebe930104dce6796c512e441f95bc008093f",
+      "bytes": 28669,
+      "captured": "https://web.archive.org/web/20160728055831id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-4/"
+    },
+    {
+      "path": "reference/raw/ch6-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-5/",
+      "sha256": "cbeadbce5ce9a894a9460713e9914caa00598b8c93cf14a0afe9e9d7e7abcf0b",
+      "bytes": 21040,
+      "captured": "https://web.archive.org/web/20160626224807id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-5/"
+    },
+    {
+      "path": "reference/raw/ch6-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-6/",
+      "sha256": "fc6611b9d64354c76be098401782880421d54549effcf51a7d6f4d9fcfbe3b9b",
+      "bytes": 21570,
+      "captured": "https://web.archive.org/web/20160728022019id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-6/"
+    },
+    {
+      "path": "reference/raw/ch6-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-7/",
+      "sha256": "f06036fb57ea89dc068110b4bee442475a6a389781b0f12739029336914fbb85",
+      "bytes": 30666,
+      "captured": "https://web.archive.org/web/20160626224817id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-7/"
+    },
+    {
+      "path": "reference/raw/ch6-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-9/",
+      "sha256": "cfb5d124dfafa7f38081e4feffd585fdffb39e86f1b5723b7c11078fc6e4d477",
+      "bytes": 22123,
+      "captured": "https://web.archive.org/web/20160728064528id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-9/"
+    },
+    {
+      "path": "reference/raw/ch6-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-11/",
+      "sha256": "b5f3fef32c04ce5cd8aa72fa555216ae5d3834ad4b91acda3f709853e361ed52",
+      "bytes": 19296,
+      "captured": "https://web.archive.org/web/20160726171502id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-11/"
+    },
+    {
+      "path": "reference/raw/ch6-page-12.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-12/",
+      "sha256": "494b6980444b3ced72f06cb243278ec61962eee12e37497cf1511e272c49b34d",
+      "bytes": 26052,
+      "captured": "https://web.archive.org/web/20160728055823id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-12/"
+    },
+    {
+      "path": "reference/raw/ch6-page-13.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-13/",
+      "sha256": "297830d53ce496e64b7d85219e6ebfb86903aa1f716361c51c5e7182b9e21101",
+      "bytes": 31035,
+      "captured": "https://web.archive.org/web/20160625074420id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-13/"
+    },
+    {
+      "path": "reference/raw/ch6-page-14.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-14/",
+      "sha256": "169162549d0ba9b84ea7936f1d0eabe6327e5a8fd4610e20ab101bf001882873",
+      "bytes": 31959,
+      "captured": "https://web.archive.org/web/20160622061123id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-14/"
+    },
+    {
+      "path": "reference/raw/ch6-page-15.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-15/",
+      "sha256": "5321f9399506d60b8809373dd830328f83214b08375e10f07a06dffc06ccb322",
+      "bytes": 56116,
+      "captured": "https://web.archive.org/web/20160720103254id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-15/"
+    },
+    {
+      "path": "reference/raw/ch7-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-7/page-1/",
+      "sha256": "361bf8c5f9e68abaf036ddc5dc1b2752dfef27de86e20a0ba5fe9e77c584884d",
+      "bytes": 18381,
+      "captured": "https://web.archive.org/web/20160802191621id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-7/page-1/"
+    },
+    {
+      "path": "reference/raw/ch7-page-15.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-7/page-15/",
+      "sha256": "c9b2af3d2b83a05310e480c5ad4194ece0fd61c46bb88b7cf376898b07fc1cca",
+      "bytes": 16650,
+      "captured": "https://web.archive.org/web/20151112234556id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-7/page-15/"
+    },
+    {
+      "path": "reference/raw/ch8-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-1/",
+      "sha256": "d36d9d357ca051083aadc406844b4358a26a41e0a191e52b79a1e5a6cc6c559a",
+      "bytes": 18593,
+      "captured": "https://web.archive.org/web/20150915015522id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-1/"
+    },
+    {
+      "path": "reference/raw/ch8-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-2/",
+      "sha256": "62a946e3fac00cad26fb05e1405a2ec04deb9c030a48cf29cb662060a004e72b",
+      "bytes": 19963,
+      "captured": "https://web.archive.org/web/20151112234601id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-2/"
+    },
+    {
+      "path": "reference/raw/ch8-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-3/",
+      "sha256": "c05adb1b67159b125162c4aff95e4512dedb1aefa88165f32150c34d01add0f1",
+      "bytes": 22012,
+      "captured": "https://web.archive.org/web/20160702064903id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-3/"
+    },
+    {
+      "path": "reference/raw/ch8-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-4/",
+      "sha256": "b4fa91ad1026209c88ec0b79961e07694eafbf6aa274a0befc73b6985c169343",
+      "bytes": 24950,
+      "captured": "https://web.archive.org/web/20160901011846id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-4/"
+    },
+    {
+      "path": "reference/raw/ch8-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-5/",
+      "sha256": "90e36bd7bbd872b28ea57a89fa7c4d558785ff1ba521532b848c075741e164e4",
+      "bytes": 24827,
+      "captured": "https://web.archive.org/web/20160901010533id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-5/"
+    },
+    {
+      "path": "reference/raw/ch8-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-6/",
+      "sha256": "f4d04b05cb4a0abb50ff5ac1a502364dfeed6e678673668cf55f269758412d8b",
+      "bytes": 29907,
+      "captured": "https://web.archive.org/web/20160702064858id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-8/page-6/"
+    },
+    {
+      "path": "reference/raw/ch9-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-9/page-11/",
+      "sha256": "2a23565c98f6c70b738cc9aaf931a2a4279038dbdf6a27271996c8cb55659416",
+      "bytes": 18362,
+      "captured": "https://web.archive.org/web/20151112195345id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-9/page-11/"
+    },
+    {
+      "path": "reference/raw/ch10-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-1/",
+      "sha256": "5878631bf0a1f04274274b42ebf08043eb1b5b61f3af648df69bb86470acd4a9",
+      "bytes": 21870,
+      "captured": "https://web.archive.org/web/20151112234530id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-1/"
+    },
+    {
+      "path": "reference/raw/ch10-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-2/",
+      "sha256": "667000bbc45373d32b15076a3f61fdef35b409136693a36bfc0b9140f92b737c",
+      "bytes": 21440,
+      "captured": "https://web.archive.org/web/20160630235304id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-2/"
+    },
+    {
+      "path": "reference/raw/ch10-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-3/",
+      "sha256": "d806418f053e773ca6bc122dbf8f682834f0a894102194af36d651658e530c8d",
+      "bytes": 19873,
+      "captured": "https://web.archive.org/web/20151112234535id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-3/"
+    },
+    {
+      "path": "reference/raw/ch10-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-4/",
+      "sha256": "dbf347e3ed484022fb9e60ccef5a438b94c021fd10125edade1c488302eec96f",
+      "bytes": 21032,
+      "captured": "https://web.archive.org/web/20160322230639id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-4/"
+    },
+    {
+      "path": "reference/raw/ch10-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-5/",
+      "sha256": "6794ac1c6cff4f4af013744c89d50c94f1e32e43bb7f56833aec7901a4085266",
+      "bytes": 20844,
+      "captured": "https://web.archive.org/web/20170921000551id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-5/"
+    },
+    {
+      "path": "reference/raw/ch10-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-6/",
+      "sha256": "6ea85ca9fee58be4c696fddf050a3cf8655c3fef2ca0f93d76de796257f9c8d2",
+      "bytes": 24241,
+      "captured": "https://web.archive.org/web/20160324034701id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-6/"
+    },
+    {
+      "path": "reference/raw/ch10-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-11/",
+      "sha256": "d830e6d553424baf785df932633765c59d12758e7d66140f954532e3b957ecf7",
+      "bytes": 23385,
+      "captured": "https://web.archive.org/web/20160325230927id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page-11/"
+    },
+    {
+      "path": "reference/raw/ch11-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-1/",
+      "sha256": "284740c9af3fabbef07a988ebce0e25884c3f1e77d761f710763721c33bc0716",
+      "bytes": 16495,
+      "captured": "https://web.archive.org/web/20160701064124id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-1/"
+    },
+    {
+      "path": "reference/raw/ch11-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-2/",
+      "sha256": "b54d46413d46967f7afda3d2d9271be7cba48289cab9554c52990eb21071ac6e",
+      "bytes": 29927,
+      "captured": "https://web.archive.org/web/20160628231233id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-2/"
+    },
+    {
+      "path": "reference/raw/ch11-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-3/",
+      "sha256": "62e52c51c81ab20663de506ce82f30a617b623e60ddf0c736beca94997acf8f9",
+      "bytes": 22686,
+      "captured": "https://web.archive.org/web/20160628230447id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-3/"
+    },
+    {
+      "path": "reference/raw/ch11-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-4/",
+      "sha256": "79c1389ae8ca7672ff2df0bcad45cd81d540a0c9c66cae3945e47f0e0a89063c",
+      "bytes": 31642,
+      "captured": "https://web.archive.org/web/20160728093300id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-4/"
+    },
+    {
+      "path": "reference/raw/ch11-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-5/",
+      "sha256": "f4e5898a393316a0daa6a0d67596b23303bbf07de9418c9e4a0d5b5281963c13",
+      "bytes": 32219,
+      "captured": "https://web.archive.org/web/20160628230811id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-5/"
+    },
+    {
+      "path": "reference/raw/ch11-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-6/",
+      "sha256": "5dd45cf606a0ace84f682e6565a2d6452d5116dc5f15eb017d2f3c2dacb837e4",
+      "bytes": 24164,
+      "captured": "https://web.archive.org/web/20160802202847id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-6/"
+    },
+    {
+      "path": "reference/raw/ch11-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-7/",
+      "sha256": "e7aa830461348f336dd57ff438c2a00c43b0c7732f7a33481406dcacc560241e",
+      "bytes": 26114,
+      "captured": "https://web.archive.org/web/20160628230850id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-7/"
+    },
+    {
+      "path": "reference/raw/ch11-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-8/",
+      "sha256": "2941324d2a34d832ebf1b6e8102b934ca66216d888370e247215b3a1f68a7721",
+      "bytes": 23681,
+      "captured": "https://web.archive.org/web/20160628230453id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-8/"
+    },
+    {
+      "path": "reference/raw/ch11-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-9/",
+      "sha256": "8ec44cad1b41896dde30c5084875c3a9bd09f5e1be9e7a9bc70a65e1b522ed7c",
+      "bytes": 31890,
+      "captured": "https://web.archive.org/web/20160802162900id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-9/"
+    },
+    {
+      "path": "reference/raw/ch11-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-10/",
+      "sha256": "dbab40fcccb36c8adfb6a4a1d035aaca450d6a9e7dd6c907eabbbfd17b55044f",
+      "bytes": 20016,
+      "captured": "https://web.archive.org/web/20160720112620id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-11/page-10/"
+    },
+    {
+      "path": "reference/raw/ch12-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-1/",
+      "sha256": "891d6df6f5e37baac1eae139ec6767b2066363f2fab50e4661c8f9927621bedd",
+      "bytes": 17657,
+      "captured": "https://web.archive.org/web/20160802172422id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-1/"
+    },
+    {
+      "path": "reference/raw/ch12-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-2/",
+      "sha256": "65db372c02325f7a7ee1def4c13e0639bc8ce88b6baf7de2d2fa191d2e0a9a90",
+      "bytes": 23069,
+      "captured": "https://web.archive.org/web/20171027100128id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-2/"
+    },
+    {
+      "path": "reference/raw/ch12-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-3/",
+      "sha256": "e25897a3de1b5723dfb558cd75cf38185c2c5a0af5bf39cb379e704ea028184c",
+      "bytes": 24502,
+      "captured": "https://web.archive.org/web/20160719125322id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-3/"
+    },
+    {
+      "path": "reference/raw/ch12-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-4/",
+      "sha256": "8eedb24c98f10ba4f1e25d8024f86336885a16b0dbb5d3364a4fd859ec82ac1a",
+      "bytes": 24080,
+      "captured": "https://web.archive.org/web/20140906104339id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-4/"
+    },
+    {
+      "path": "reference/raw/ch12-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-5/",
+      "sha256": "4124320af1b3db961b73acc8f6d21d4e15d3a1c79b7ba30f98144e0f674e5e00",
+      "bytes": 29677,
+      "captured": "https://web.archive.org/web/20140904084249id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-5/"
+    },
+    {
+      "path": "reference/raw/ch12-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-6/",
+      "sha256": "bd2d97525012cab01c401b0f5608b827ed1a62fae43e87ea83764add635cfd54",
+      "bytes": 25403,
+      "captured": "https://web.archive.org/web/20130602162720id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-6/"
+    },
+    {
+      "path": "reference/raw/ch12-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-7/",
+      "sha256": "a53320e5ba1c16222949d9d0a922f7e3cf7466f0d8f9b3cf51f52f3f41bcf2c6",
+      "bytes": 25569,
+      "captured": "https://web.archive.org/web/20160317044610id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-7/"
+    },
+    {
+      "path": "reference/raw/ch12-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-9/",
+      "sha256": "4f50f277eb88e4216054d050eec8a1197bcc821213bc7745d93391e30e8ef53e",
+      "bytes": 25177,
+      "captured": "https://web.archive.org/web/20160317005738id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-9/"
     }
   ],
   "sources_note": "The reference is derived from the source PDF already in archive/, so no copy is kept under reference/raw/.",
   "blocks": {
     "path": "reference/blocks.jsonl",
-    "sha256": "46c035cb19cd564923b18cfd3c22e353201afb1e697925e38449be9594f7c611",
-    "normaliser": "reportsthatmatter scripts/score/reference.py, adapter tagged, version 1",
+    "sha256": "64d2535da2caf8a2e063aee41ca356f8f406177265f76ec4d0348421b3c330e4",
+    "normaliser": "reportsthatmatter scripts/score/reference.py, adapter tagged, version 2",
     "built": "2026-10-02",
     "counts": {
-      "heading": 372,
-      "note": 392,
-      "paragraph": 2348
+      "heading": 365,
+      "list": 511,
+      "note": 1113,
+      "paragraph": 2529
     },
-    "markers": 0,
-    "markers_linked": 0,
-    "words": 199383
+    "markers": 992,
+    "markers_linked": 983,
+    "words": 197305
   },
   "caveats": [
-    "One /P element holds all the paragraphs between headings on a page: split at printed paragraph numbers (2.1.60), so unnumbered paragraphs inside one element are not separated.",
-    "Every page-bottom fragment is its own /P: an element opening in lower case is joined to the one before; one opening on a capital is not.",
-    "Footnotes are plain /P (typed as notes when they read as numbered citations); markers are not linked, so marker metrics are empty."
+    "A hybrid. The website HTML holds each paragraph in its own element, so unnumbered paragraphs are separate, footnotes are linked and a paragraph is never cut at a page break. Wayback holds about two thirds of its pages (chapters 4, 7, 8 and 9 are mostly missing): a stretch whose printed paragraph numbers the HTML has is taken from the HTML, the rest from the PDF's tags.",
+    "The tags put one /P element around all the paragraphs between headings on a page: split at printed paragraph numbers (2.1.60), so unnumbered paragraphs inside one element are not separated in the stretches taken from the tags.",
+    "In the tags a fragment that continues an unfinished paragraph (past the page's notes) is joined to it, whatever its first letter; footnotes sit inside the page's /P in the note size (9 pt against 12 pt) and are taken out by size."
   ]
 }

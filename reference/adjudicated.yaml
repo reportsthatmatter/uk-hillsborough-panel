@@ -1,0 +1,193 @@
+report: uk-hillsborough-panel
+adjudicated: 2026-10-02
+by: Claude (Sonnet 5.5), reading the PDF
+method: "20 page breaks drawn at random (seeded) from the page breaks the reference covers, plus 10 where our text and the reference disagreed. For each, pdftotext -layout of the two pages (body lines, then the notes, then the running foot), answering: does a new block (paragraph, bullet, quotation, heading) start between the last body line above the notes and the first body line of the new page, or does the block run on. prev and next are the dataset's lines (notes skipped)."
+breaks:
+  - page: 4
+    prev: "nted on paper containing 75% recycled fibre content minimum."
+    next: "Foreword"
+    verdict: split
+    stratum: random
+    image: false
+    note: "front matter: the imprint, then the contents"
+  - page: 35
+    prev: "sports grounds and other leisure venues."
+    next: "The ‘lens of hooliganism’ and the introduction of ‘pens’"
+    verdict: split
+    stratum: random
+    image: false
+    note: "heading"
+  - page: 45
+    prev: "lowed in responding to the internal Inquiry’s requirements."
+    next: "1.109 In C/Supt Wain’s written announcement he stated:"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 50
+    prev: "negligence in respect of the deaths and physical injuries’.2"
+    next: "1.157 His remarks were made in the context of one of three d"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 66
+    prev: "enwood (Superintendent and Ground Commander in 1989) stated"
+    next: "that he was stationed at one of the perimeter gates and radi"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 67
+    prev: "SWFC representatives were extremely critical of the police"
+    next: "action, for allowing the situation to develop and for how it"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 98
+    prev: "pm.40 He recalled standing on a parapet to view the tightly"
+    next: "packed crowd at the approach to the turnstiles. This moment"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 102
+    prev: "did not wish to interfere with the Police operations’.65"
+    next: "2.2.91 ACC Jackson recalled C/Supt Duckenfield saying ‘somet"
+    verdict: split
+    stratum: random
+    image: false
+    note: "numbered paragraph 2.2.91"
+  - page: 111
+    prev: ", provided there was no obstruction or breach of the peace’."
+    next: "2.3.40 This was contested: ‘We do not think the police are s"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 144
+    prev: "but the disorganisation on the pitch also prevailed there."
+    next: "There did not appear to be anyone in authority in charge of"
+    verdict: split
+    stratum: random
+    image: false
+    note: "an indented quotation opens the page"
+  - page: 146
+    prev: "with a leg injury elsewhere: ‘This patient was treated and"
+    next: "transported back to the Northern General Hospital and I call"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 150
+    prev: "as possible, then removing the injured to hospital as soon"
+    next: "as possible, the records confirm that ambulance control staf"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 160
+    prev: "aring in mind that many of the deceased were young people’.1"
+    next: "2.5.8  It is instructive that as early as the morning of Sun"
+    verdict: split
+    stratum: random
+    image: false
+    note: "numbered paragraph 2.5.8"
+  - page: 170
+    prev: "gate was first opened. Another group were those whose route"
+    next: "of entry via a turnstile or Gate C was unknown, but their en"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 173
+    prev: "(95% CI: 1.0, 9.3)36 ... exactly as before’.37"
+    next: "2.5.93  An odds ratio with a 95 per centconfidence interval"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 183
+    prev: "now, open, straight forward, no intention to try and blur’."
+    next: "2.6.20  There should be no ‘shedding any responsibility’. He"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 208
+    prev: "criminal prosecution."
+    next: "2.6.206 This course of action extended to two junior officer"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 235
+    prev: "e Disaster Appeal Fund.29 It suggested that police officers"
+    next: "should ‘not be hesitant about making a claim’, noting that a"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 247
+    prev: "apsed barrier: ‘our prospects of substantially improving on"
+    next: "the outcome of the inquiry rest on convincing the court that"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 256
+    prev: "telephoned by the South Yorkshire Police (SYP)."
+    next: "2.8.24  The immediate plan was to move bodies from the stadi"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 273
+    prev: "senior officers until the conclusion of the inquests. Still"
+    next: "concerned, however, Dr Popper sought advice from another cor"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 282
+    prev: "spectators, the Police and others’."
+    next: "2.9.109  At the conclusion of the evidence ‘all representati"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 290
+    prev: "ented by WMP officers and not subject to cross-examination."
+    next: "2.10.14  For many families the expectation was that question"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 299
+    prev: "HFSG barrister had ‘not advised a further application’."
+    next: "2.10.83  Months later the HFSG submission continued to reson"
+    verdict: split
+    stratum: random
+    image: false
+  - page: 300
+    prev: "others had given assurance before the election that the new"
+    next: "evidence would be examined’. An added comment from Mr Blair’"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 319
+    prev: "deleted:"
+    next: "(7) The decision to replace Chief Superintendent Mole before"
+    verdict: split
+    stratum: random
+    image: false
+    note: "an indented quotation opens the page"
+  - page: 335
+    prev: "nsider the process improper and did not raise any objection."
+    next: "• The process of transition from self-taken recollections to"
+    verdict: split
+    stratum: random
+    image: false
+    note: "a new bullet"
+  - page: 359
+    prev: "fans that day, the allegations made by the officers are as"
+    next: "specific as they are sickening, but it would be pointless an"
+    verdict: join
+    stratum: disagreement
+    image: false
+  - page: 382
+    prev: "narrative within each chapter. Inevitably the chapters also"
+    next: "rely on documents and material already in the public domain"
+    verdict: join
+    stratum: random
+    image: false
+  - page: 383
+    prev: "personnel and correct positioning."
+    next: "The material disclosed to the Panel included the schedule of"
+    verdict: split
+    stratum: random
+    image: false
+    note: "by content: the sentence before is finished and the next opens a new point in the appendix"
