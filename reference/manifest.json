@@ -1,7 +1,7 @@
 {
   "report": "uk-hillsborough-panel",
   "set": "held-out",
-  "edition": "The panel website's HTML (Wayback captures, 2013-2016) where captured, and the PDF's own structure tree (tagged PDF, InDesign styles) for the rest",
+  "edition": "The panel website's HTML (Wayback captures) where captured, and the PDF's own structure tree (tagged PDF, InDesign styles) for the rest",
   "licence": "Crown copyright, reused under the Open Government Licence v3.0 (https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/).",
   "fetched": "2026-10-02",
   "sources": [
