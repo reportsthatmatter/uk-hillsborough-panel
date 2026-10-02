@@ -1,4 +1,4 @@
-import {
+import { layoutPageJoins,
   pipeline,
   pageBreakContinuations,
   runningFurniture,
@@ -36,6 +36,10 @@ export default pipeline({
   // real running header), recovering the one true occurrence — the chapter
   // opening itself — as a heading (reportsthatmatter-r19).
   passes: [
+    // A paragraph run over a page break that opens on a capital, a digit or a
+    // quotation mark (or follows a full stop on a justified page) joins when the
+    // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
+    layoutPageJoins(),
     runningFurniture({ numbersTrackPages: true }),
     quoteInset(10),
     numberedParagraphs(),
