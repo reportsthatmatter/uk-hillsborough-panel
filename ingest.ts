@@ -1,5 +1,6 @@
 import {
   pipeline,
+  pageBreakContinuations,
   runningFurniture,
   quoteInset,
   numberedParagraphs,
@@ -46,5 +47,8 @@ export default pipeline({
     numberedHeadings(false),
     allCapsHeadings(false),
     listedHeadings(),
+    // A paragraph that stops mid-sentence at a page foot and resumes in lower
+    // case on the next page was read as a block quotation (4 cases).
+    pageBreakContinuations(),
   ],
 });
