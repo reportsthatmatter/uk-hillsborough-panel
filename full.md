@@ -21,7 +21,7 @@ HC 581 London: The Stationery Office £59.00
 
 ISBN: 9780102980356 Printed in the UK for The Stationery Office Limited on behalf of the Controller of Her Majesty's Stationery Office ID P002501090 09/12 22947 19585 Printed on paper containing 75% recycled fibre content minimum.
 
-### Contents
+Contents
 
 - Foreword — 1
 
@@ -4577,7 +4577,7 @@ I was advised by seven separate lawyers at a meeting some 18 months ago that in 
 
 %%page 239%%
 
-##### Rescuers’ position
+##### Rescuers' position
 
 2.7.57 The position in relation to 'rescuers' was considered more complex, but the initial advice to the Force was clear: 'we resist on the possible grounds of lack of foreseeability, no duty of care, public policy and the fortitude and phlegm argument'.[^38-9014]
 
@@ -4673,7 +4673,7 @@ But I think that such an extension would be unacceptable to the ordinary person 
 
 2.7.77 The disclosed material reveals that, despite initial consternation within SYP about the prospect of claims from their officers, the strategy adopted by the Chief Constable and SYP's solicitors, Hammond Suddards, to limit those claims was eventually vindicated. In effect, it restricted the claims which succeeded to those on behalf of a relatively small number of SYP officers.
 
-#### The ‘contribution hearings’
+#### The 'contribution hearings'
 
 2.7.78 In the wake of his decision, announced on 30 November 1989, to settle certain claims on behalf of the bereaved and the injured,54 the SYP Chief Constable Peter Wright invited SWFC, Eastwood & Partners and SCC to join with SYP in the settlement negotiations. All three parties declined the invitation.
 
@@ -5348,7 +5348,7 @@ For practical purposes the 'how' will apply to all the ninety-five deceased. Tec
 
 %%page 281%%
 
-#### The verdict and bereaved families’ concerns
+#### The verdict and bereaved families' concerns
 
 2.9.77 As the opening of the resumed inquests approached, the Coroner continued to receive letters from bereaved families reiterating their concerns that the mini-inquests had failed to answer questions specific to the precise circumstances in which their loved ones died. Discrepancies were raised regarding timing, location, identification, time of death, inaccuracies on post mortem reports and inconsistencies between statements.
 
@@ -5809,7 +5809,7 @@ It seemed to me that it is very unfair on a Coroner to have to deal with a situa
 
 2.10.119 This position was followed up in a further undated, unattributed briefing.53 It noted that the jury had heard evidence about those who died after admission to hospital and of those who had been resuscitated. The evidence of death beyond 3.15pm 'would not therefore effect [sic] the inquest'. The briefing also noted that in 1993 the issue had been examined thoroughly in the Divisional Court establishing 'no other cause of death' and the decision to impose a 'cut-off point' had been 'considered and reasonable'.
 
-##### The Scrutiny’s findings
+##### The Scrutiny's findings
 
 2.10.120 LJ Stuart-Smith published his findings in February 1998.[^54-9019] He noted that the Coroner's ruling on the 3.15 cut-off 'had been subjected to a good deal of criticism'. While the Divisional Court had upheld the Coroner's ruling, Counsel for the HFSG had submitted that 'fresh evidence discovered since 1993' undermined that Judgment.
 
@@ -6946,7 +6946,7 @@ Someone shouted: 'Throw her up here. I'll fuck her'. When I came to that part of
 
 2.12.175 Documentary evidence considered in Chapter 2 does not confirm a significant number of ticketless fans, and CI Bettison responded to the meetings that 'Inspector King of Scotland Yard was asked to find out whether there was a conspiratorial effort – he could not find any direct evidence that Liverpool supporters held this conspiratorial view, apart from three isolated statements … in the pub'. Nor is there any evidence in the disclosed documents to confirm that there was a surge of badly behaved late arrivals, with or without tickets.
 
-##### Police officers’ reactions to the Taylor Inquiry
+##### Police officers' reactions to the Taylor Inquiry
 
 2.12.176 Police officers present at the meeting were critical of the Taylor Inquiry, regarded repeatedly as a 'whitewash'. According to one, LJ Taylor 'knew that if the truth came out about Liverpool fans it would be the death of Liverpool [Football] Club' and the Interim Report had given 'Liverpool a carte blanche to do what they want'. The minutes record that his comments drew 'applause from the audience'.
 

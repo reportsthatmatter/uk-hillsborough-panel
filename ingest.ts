@@ -215,8 +215,9 @@ export default pipeline({
     layoutMarkers(),
     // Subsection headings are maroon sans-serif lines (26pt, 21pt) with no textual convention
     // (pdftotext sets the line on its own, the block parser reads it into the next paragraph).
-    // The layout has face and size; the largest face is the chapter title (level 3), as on the site.
-    typographicHeadings({ firstLevel: 3 }),
+    // The layout has face and size: 26pt bold is level 4 and 21pt medium level 5, as on the website's pages.
+    // (The 35pt face is a part or chapter title, which listedHeadings reads.)
+    typographicHeadings({ firstLevel: 4, sizes: [26, 21] }),
     runningFurniture({ numbersTrackPages: true }),
     quoteInset(10),
     numberedParagraphs(),
