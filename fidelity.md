@@ -1,8 +1,8 @@
 # Fidelity review — The Report of the Hillsborough Independent Panel
 
-Pages: 389  ·  Footnotes: 6  ·  Auto-fixes applied: 1  ·  Human corrections: 0
+Pages: 389  ·  Footnotes: 1015  ·  Auto-fixes applied: 0  ·  Human corrections: 0
 
-**81 open**, 0 reviewed and judged correct.
+**55 open**, 0 reviewed and judged correct.
 
 OCR suspects below are a **review queue, not errors**. Whether the text is
 faithful to the scan is a human judgement; these are the places most likely
@@ -16,84 +16,58 @@ file under `dismissed:` and the entry leaves this queue for good.
 
 | Confidence | Pattern | Text | Where | Context |
 | --- | --- | --- | --- | --- |
-| likely | digit inside a word | `3pm` | Vol 1 · PDF p.31 | At Hillsborough the match kicked off at 3pm. Six minutes later the referee stopped  |
-| likely | digit inside a word | `4pm` | Vol 1 · PDF p.102 | uld make et cetera’. 2.2.96 Just after 4pm, Supt Marshall met C/Supt Duckenfield,  |
-| likely | digit inside a word | `9pm` | Vol 1 · PDF p.43 | process was set in motion shortly after 9pm. People were bussed from the Boys’ Club |
-| likely | digit inside a word | `1m` | Vol 1 · PDF p.70 | ng less than the recommended width of 1.1m but Eastwoods noted ‘we do not consider |
-| likely | digit inside a word | `2pm` | Vol 1 · PDF p.96 |  1.50pm. ACC Jackson arrived soon after 2pm. He remarked that more Nottingham Fores |
-| likely | digit inside a word | `1st` | Vol 1 · PDF p.183 | inburgh: Mainstream Publications, 1999 (1st Edn). 184  |
-| likely | digit inside a word | `8ft` | Vol 1 · PDF p.67 | ateral segregation gap providing a 6 to 8ft wide channel down the centre of the ter |
-| likely | digit inside a word | `7m` | Vol 1 · PDF p.72 | subject to interpretation’. 2.1.44 A 2.7m vertical wire mesh perimeter fence at t |
-| likely | digit inside a word | `6th` | Vol 1 · PDF p.83 | : ‘The Police have indicated that as at 6th January, 1987 they are quite satisfied  |
-| likely | digit inside a word | `9th` | Vol 1 · PDF p.86 |  above football match on Saturday April 9th 1988, and write to protest in t |
-| likely | digit inside a word | `8am` | Vol 1 · PDF p.96 | oom log book for 15 April 1989 began at 8am but there was no entry beyond 2.21pm.30 |
-| likely | digit inside a word | `0mg` | Vol 1 · PDF p.174 | inety-five per cent confidence interval 0mg/100ml to 38mg/100ml. 40. Dr Popper’s su |
-| likely | digit inside a word | `8m` | Vol 1 · PDF p.233 | l figure expended in legal costs was £3.8m.24,25 24. Compensation expenditure cal |
-| likely | digit inside a word | `3b` | Vol 1 · PDF p.254 | Bulletin February 1984, p16. 2. Rule 3b of the 1984 Coroners’ Rules in Kavanagh |
-| likely | digit inside a word | `5pm` | Vol 1 · PDF p.301 | His whereabouts between that moment and 5pm, when he was first treated at the North |
-| likely | digit inside a word | `9am` | Vol 1 · PDF p.313 | proof of evidence’, briefed officers at 9am.8 Recollections would follow a template |
-| likely | digit inside a word | `6pm` | Vol 1 · PDF p.337 | n Two’, BBC Radio, 15 April 1989. 4. 6pm News, BBC Radio 4, 15 April 1989. 5.  |
-| likely | digit inside a word | `7pm` | Vol 1 · PDF p.348 | er. He had attended a press briefing at 7pm with the Chief Constable and then visit |
-| likely | digit inside a word | `1GN` | Vol 1 · PDF p.389 | ax and email TSO PO Box 29, Norwich NR3 1GN Telephone orders/general enquiries: 087 |
-| likely | digit inside a word | `SW1A` | Vol 1 · PDF p.389 | ridge Street, Parliament Square, London SW1A 2JX Telephone orders/general enquiries: |
-| likely | digit inside a word | `2JX` | Vol 1 · PDF p.389 |  Street, Parliament Square, London SW1A 2JX Telephone orders/general enquiries: 020 |
-| possible | possible rn/m confusion | `turnstiles` | Vol 1 · PDF p.9 | serious congestion at the Leppings Lane turnstiles and crushing on the confined outer conc |
-| possible | possible rn/m confusion | `concerned` | Vol 1 · PDF p.8 |  made public. They were also profoundly concerned that following unsubstantiated allegati |
-| possible | possible rn/m confusion | `concerns` | Vol 1 · PDF p.11 | he Fire Service, however, raised concerns about provision for emergency evacuatio |
-| possible | possible rn/m confusion | `turnstile` | Vol 1 · PDF p.11 | osts to SWFC. 8. Consequently, the turnstile counters were rendered irrelevant. Alth |
-| possible | possible rn/m confusion | `morning` | Vol 1 · PDF p.20 | ed to the Panel by SYP show that on the morning after the disaster senior offi |
-| possible | possible rn/m confusion | `Bernard` | Vol 1 · PDF p.13 | sistant, the experienced Superintendent Bernard Murray, anticipated the impact o |
-| possible | possible rn/m confusion | `Burns` | Vol 1 · PDF p.166 | int was clearly illustrated by Dr James Burns, a forensic pathologist who reviewed a  |
-| possible | possible rn/m confusion | `afternoon` | Vol 1 · PDF p.30 | or’s findings. 151. The meeting’s afternoon session heard from unnamed police offic |
-| possible | possible rn/m confusion | `Barnsley` | Vol 1 · PDF p.31 | e treated at hospitals in Sheffield and Barnsley, many more were traumatised and the fam |
-| possible | possible rn/m confusion | `Turnbull` | Vol 1 · PDF p.201 | r’s Principal Private Secretary, Andrew Turnbull, informed her of ‘a pessimistic assessm |
-| possible | possible rn/m confusion | `warned` | Vol 1 · PDF p.34 |  ‘the Green Guide’). 1.30 Lord Wheatley warned club owners that crowd safety should be |
-| possible | possible rn/m confusion | `adjourned` | Vol 1 · PDF p.50 | e Hillsborough inquests were opened and adjourned immediately after the disaster. As stat |
-| possible | possible rn/m confusion | `Burne` | Vol 1 · PDF p.204 |  on structural aspects of the disaster (Burne). The policing report was written by JD |
-| possible | possible rn/m confusion | `warnings` | Vol 1 · PDF p.4 |  59 Chapter 1. 1981–1989: unheeded warnings, the seeds of disaster  |
-| possible | possible rn/m confusion | `Burnham` | Vol 1 · PDF p.8 |  20th anniversary of the disaster, Andy Burnham, Secretary of State for Culture, Media  |
-| possible | possible rn/m confusion | `internally` | Vol 1 · PDF p.22 | he Force to withdraw them. SYP accepted internally that they had ‘no defence’ in  |
-| possible | possible rn/m confusion | `fairness` | Vol 1 · PDF p.55 | , ‘There is nothing to show any lack of fairness or unreasonableness – there was no erro |
-| possible | possible rn/m confusion | `adjournment` | Vol 1 · PDF p.58 | rejected the report. A House of Commons adjournment debate followed on 8 May. Review and  |
-| possible | possible rn/m confusion | `Cornwall` | Vol 1 · PDF p.204 | ps, Deputy Chief Constable of Devon and Cornwall Constabulary.103 2.6.178 Until June 19 |
-| possible | possible rn/m confusion | `international` | Vol 1 · PDF p.168 | t prepared by Professor Wayne Jones, an international authority on alcohol testing, commissio |
-| possible | possible rn/m confusion | `internationally` | Vol 1 · PDF p.28 | nded allegation was broadcast internationally and was the first explanation of the ca |
-| possible | possible rn/m confusion | `journalists` | Vol 1 · PDF p.31 | vision and radio broadcasters, numerous journalists and press photographers, and recorded o |
-| possible | possible rn/m confusion | `Burnden` | Vol 1 · PDF p.33 |  police, fire and ambulance services. Burnden Park 1946 and the Moelwyn Hughes Report |
-| possible | possible rn/m confusion | `journey` | Vol 1 · PDF p.39 | orest supporters had a relatively short journey, this was not the case for those travel |
-| possible | possible rn/m confusion | `Turner` | Vol 1 · PDF p.55 | g or in error. Together with Mr Justice Turner he considered that the inquests had bee |
-| possible | possible rn/m confusion | `corner` | Vol 1 · PDF p.70 |  Lane terrace (excluding its north-west corner) the report calculated a capacity of 7, |
-| possible | possible rn/m confusion | `warning` | Vol 1 · PDF p.90 | 88 events provided, at minimum, a clear warning of potential dangers on the concourse o |
-| possible | possible rn/m confusion | `Barnes` | Vol 1 · PDF p.122 |  officer in Serial 17, Police Constable Barnes, was located in the tunnel at the entra |
-| possible | possible rn/m confusion | `governing` | Vol 1 · PDF p.40 | ded details of the regulatory functions governing the policing of football. Spectators tr |
-| possible | possible rn/m confusion | `journeys` | Vol 1 · PDF p.43 | . Questioning included details of their journeys to Sheffield, whether they had attended |
-| possible | possible rn/m confusion | `returns` | Vol 1 · PDF p.63 | ies regarding the inquests. Chapter 11 returns to the contentious issue of the process |
-| possible | possible rn/m confusion | `Concerns` | Vol 1 · PDF p.82 | s inaudible and required upgrading.107 Concerns about stewarding 2.1.90 Early in 1988 a |
-| possible | possible rn/m confusion | `externally` | Vol 1 · PDF p.165 |  traumatic asphyxia both internally and externally were quite marked’. In fact there were  |
-| possible | possible rn/m confusion | `alternatively` | Vol 1 · PDF p.199 | s trying to oust the Chief Constable or alternatively (depending which way the decision event |
-| possible | possible rn/m confusion | `borne` | Vol 1 · PDF p.227 |  out of the test cases, will have to be borne by the Authority. The Insurers |
-| possible | possible rn/m confusion | `bitterness` | Vol 1 · PDF p.237 | ds.39 There was ‘considerable anger and bitterness that these claims should be brought at  |
-| possible | possible rn/m confusion | `tournament` | Vol 1 · PDF p.9 | -finals, the most prestigious knock-out tournament in English soccer. These matches usuall |
-| possible | possible rn/m confusion | `Adjournment` | Vol 1 · PDF p.32 | ction was warranted. A House of Commons Adjournment Debate followed in May 1998. 1.16 The  |
-| possible | possible rn/m confusion | `unconcerned` | Vol 1 · PDF p.80 | r the original safety certificate, were unconcerned. They replied that ‘providing the polic |
-| possible | possible rn/m confusion | `Warning` | Vol 1 · PDF p.105 | ed, by established custom and practice. Warning signs that were clearly evident in the  |
-| possible | possible rn/m confusion | `patterns` | Vol 1 · PDF p.156 | e deceased, particularly their drinking patterns and whether they had consumed alcohol o |
-| possible | possible rn/m confusion | `mourners` | Vol 1 · PDF p.156 | tives. 2.4.171 A glass window separated mourners from their loved ones and this proved t |
-| possible | possible rn/m confusion | `furnished` | Vol 1 · PDF p.190 | rkshire Police Inquiry Liaison Team and furnished with all necessary information and assi |
-| possible | possible rn/m confusion | `journalistic` | Vol 1 · PDF p.190 |  reassured officers, however, ‘that the journalistic “slant” bears little relation to the mo |
-| possible | possible rn/m confusion | `carnage` | Vol 1 · PDF p.198 | and dying in the first half-hour of the carnage’. 2.6.133 Consequently, ‘Liverpool fans |
-| possible | possible rn/m confusion | `garner` | Vol 1 · PDF p.200 | annery wrote to political colleagues to garner support.86 2.6.149 CC Wright remained i |
-| possible | possible rn/m confusion | `earnings` | Vol 1 · PDF p.230 | extent of the injury, resulting loss of earnings or any ongoing medical costs. Alcock  |
-| possible | possible rn/m confusion | `consternation` | Vol 1 · PDF p.241 |  material reveals that, despite initial consternation within SYP about the prospect of claims |
-| possible | possible rn/m confusion | `alternatives` | Vol 1 · PDF p.260 | rote to the DPP regarding ‘two possible alternatives open as far as my Inquests and your inv |
-| possible | possible rn/m confusion | `urnstile` | Vol 1 · PDF p.273 | erms of the actual deaths’ but that ‘[t]urnstile signing and engineering factors’ were ‘ |
-| possible | possible rn/m confusion | `eternity` | Vol 1 · PDF p.282 | having to wait what must have seemed an eternity for the hearing of the investigation in |
-| possible | possible rn/m confusion | `Furnival` | Vol 1 · PDF p.286 | eld by WMP at their Sheffield location (Furnival House) ‘because we obviously did not wa |
-| possible | possible rn/m confusion | `Thornton` | Vol 1 · PDF p.297 | ns, quoted in Parliament by Sir Malcolm Thornton, 26 October, 1989, AGO000000480001, p55 |
-| possible | possible rn/m confusion | `Concerned` | Vol 1 · PDF p.318 |  some sort of paralysis’ was deleted.37 Concerned by what he identified as poor managemen |
-| possible | possible rn/m confusion | `horns` | Vol 1 · PDF p.334 | to use their sirens and two tone horns simply to get from the arrival area ont |
-| possible | possible rn/m confusion | `underneath` | Vol 1 · PDF p.349 | police horses and the supporters diving underneath the bellies and through the legs of hor |
-| possible | possible rn/m confusion | `togetherness` | Vol 1 · PDF p.351 | by everyone we had to get the message – togetherness – across to the Force’. The Taylor In |
-| possible | possible rn/m confusion | `Morning` | Vol 1 · PDF p.354 | n Headquarters, Tuesday 3 October 1989, Morning session, SYP000046060001, pp3-22.  |
-| possible | possible rn/m confusion | `clearness` | Vol 1 · PDF p.358 | ave said without being impressed by the clearness of your evidence’. He would ‘consider c |
-| possible | possible rn/m confusion | `Internet` | Vol 1 · PDF p.389 | 020 7219 3866 Email: shop@parliament.uk Internet: http://www.shop.parliament.uk TSO@Bla |
+| possible | edition text not in the PDF | `the South Yorkshire Police` | Vol 1 · PDF p.19 | ere fatalities the Coroner was involved immediately. Within the South Yorkshire Police (SYP) an internal investigation was established, including  |
+| possible | edition text not in the PDF | `contributing agencies. The Panel was also expected to oversee the establishment of the Hillsborough Archive, holding all` | Vol 1 · PDF p.33 | rough Archive, containing all primary documents held by the contributing agencies. The Panel was also expected to oversee the establishment of the Hillsborough Archive, holding all primary documents held by the contributing agencies. |
+| possible | edition text not in the PDF | `Figure 1: Map of Hillsborough Stadium and surrounding area. From Lord Justice Taylor's Interim Report` | Vol 1 · PDF p.36 | Figure 1: Map of Hillsborough Stadium and surrounding area. From Lord Justice Taylor's Interim Report |
+| possible | edition text not in the PDF | `Chapter 4: Emergency response and aftermath: 'routinely requested` | Vol 1 · PDF p.62 | Chapter 4: Emergency response and aftermath: 'routinely requested to attend' |
+| possible | edition text not in the PDF | `Figure 3: Proposed alterations to the turnstile layout at Leppings Lane, April 1985. Original available at SCC0000020500` | Vol 1 · PDF p.76 | Figure 3: Proposed alterations to the turnstile layout at Leppings Lane, April 1985. Original available at SCC000002050001, p56 |
+| possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.103 | Conclusion: what is added to public understanding |
+| possible | edition text not in the PDF | `Figure 4: Layout of the turnstiles at Lepping Lane, April 1989. Original available at SCC000002050001, p56` | Vol 1 · PDF p.110 | Figure 4: Layout of the turnstiles at Lepping Lane, April 1989. Original available at SCC000002050001, p56 |
+| possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.129 | Conclusion: what is added to public understanding |
+| possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.156 | Conclusion: what is added to public understanding |
+| possible | edition text not in the PDF | `Figure 7: Route and time of entry of those who died. As Figure 6, showing blood alcohol readings` | Vol 1 · PDF p.173 | Figure 7: Route and time of entry of those who died. As Figure 6, showing blood alcohol readings. |
+| possible | edition text not in the PDF | `Conclusion: What is added to public understanding` | Vol 1 · PDF p.177 | Conclusion: What is added to public understanding |
+| possible | edition text not in the PDF | `It was inevitable, reported` | Vol 1 · PDF p.195 | at [per turnstile] of the 42 turnstiles in Penistone Road'. It was inevitable, reported the HSE, that in accommodating a capacity attendance, 'larg |
+| possible | edition text not in the PDF | `Conclusion: what` | Vol 1 · PDF p.251 | Conclusion: what |
+| possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.308 | Conclusion: what is added to public understanding |
+| possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.360 | Conclusion: what is added to public understanding |
+| possible | edition text not in the PDF | `Christine Gifford` | Vol 1 · PDF p.375 | Christine Gifford |
+| possible | edition text not in the PDF | `Paul Leighton` | Vol 1 · PDF p.375 | Paul Leighton |
+| possible | edition text not in the PDF | `Task 2: Research and report` | Vol 1 · PDF p.375 | Task 2: Research and report |
+| possible | edition text not in the PDF | `Dr Bill Kirkup` | Vol 1 · PDF p.375 | Dr Bill Kirkup |
+| possible | edition text not in the PDF | `Sarah Tyacke` | Vol 1 · PDF p.376 | Sarah Tyacke |
+| possible | edition text not in the PDF | `Christine Gifford` | Vol 1 · PDF p.376 | Christine Gifford |
+| possible | edition text not in the PDF | `the results of which are described in detail in Chapter 5` | Vol 1 · PDF p.383 | sed. Initially, the Panel reproduced the original analysis, the results of which are described in detail in Chapter 5. Prompted by the results it carried out further analysis of |
+| possible | edition text not in the PDF | `I hope we can all now agree that we should be joining forces in` | Vol 1 · PDF p.387 |  for full and public disclosure, initially to the families. I hope we can all now agree that we should be joining forces in helping the Panel complete its important work. |
+| possible | edition note text not in the PDF | `Statement of football supporter Gary Vaux, 14 May 1989, SYP000038700001, p75. These recollections are reiterated in Vaux` | 0 | Statement of football supporter Gary Vaux, 14 May 1989, SYP000038700001, p75. These recollections are reiterated in Vaux's evidence to Lord Justice Taylor: see HOM000026190001, pp3-4. |
+| possible | edition note text not in the PDF | `Letter from a Tottenham Hotspur supporter to the Secretary of Liverpool FC, 20 April 1989, SYP000028950001, pp2-3` | 0 | Letter from a Tottenham Hotspur supporter to the Secretary of Liverpool FC, 20 April 1989, SYP000028950001, pp2-3. |
+| possible | edition note text not in the PDF | `Evidence of chief steward for the West Stand, Stuart Thorpe, to` | 0 | Evidence of chief steward for the West Stand, Stuart Thorpe, to Lord Justice Taylor, 14 June 1989, HOM000026170001, p36. |
+| possible | edition note text not in the PDF | `Interim Report 3: Result of enquiries requested by Hammond Suddards', 1 July 1990, SYP000119460001, p8` | 0 | 'Interim Report 3: Result of enquiries requested by Hammond Suddards', 1 July 1990, SYP000119460001, p8. |
+| possible | edition note text not in the PDF | `Hillsborough - Association between time of entry to the ground, age and alcohol consumption', by Dr JP Nicholl, undated,` | 0 | 'Hillsborough - Association between time of entry to the ground, age and alcohol consumption', by Dr JP Nicholl, undated, SYC000000960001, pp21-32. |
+| possible | edition note text not in the PDF | `Hillsborough - Association between time of entry to the ground, age and alcohol consumption', by Dr JP Nicholl, undated,` | 0 | 'Hillsborough - Association between time of entry to the ground, age and alcohol consumption', by Dr JP Nicholl, undated, SYC000000960001, pp21-32. |
+| possible | edition note text not in the PDF | `Evidence of Dr Nicholl at the` | 0 | Evidence of Dr Nicholl at the Hillsborough Inquest, 14 March 1990, SYC000109160001, pp4-3 |
+| possible | edition note text not in the PDF | `Hillsborough - Association between time of entry to the ground, age and alcohol consumption', by Dr JP Nicholl, undated,` | 0 | 'Hillsborough - Association between time of entry to the ground, age and alcohol consumption', by Dr JP Nicholl, undated, SYC000000960001, p23. |
+| possible | edition note text not in the PDF | `Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Hammond Suddards, 9 May 1989, HOM000002` | 0 | 'Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Hammond Suddards, 9 May 1989, HOM000002700001, pp2-3. |
+| possible | edition note text not in the PDF | `Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Davies, Arnold, Cooper, 9 May 1989, TSO` | 0 | 'Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Davies, Arnold, Cooper, 9 May 1989, TSO000000260001, pp3-4. 'Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Keeble Hawsons, 9 May 1989, HOM000002700001, pp4-5. |
+| possible | edition note text not in the PDF | `Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Reynolds, Porter, Chamberlain, 9 May 19` | 0 | 'Salmon' letter sent by fax from David Brummell, Assistant Treasury Solicitor, to Reynolds, Porter, Chamberlain, 9 May 1989, TSO000000260001, pp1-2. |
+| possible | edition note text not in the PDF | `The Hillsborough Inquiry - Update IV' by CC Peter Wright, 30 June 1989, SYP000098080001` | 0 | 'The Hillsborough Inquiry - Update IV' by CC Peter Wright, 30 June 1989, SYP000098080001. |
+| possible | edition note text not in the PDF | `1989', 16 April 1989, SYC000001360001, p239` | 0 | File note, 'SLT/JT, HILLSBOROUGH DISASTER 16.4.1989', 16 April 1989, SYC000001360001, p239. |
+| possible | edition note text not in the PDF | `NOTES FROM THE CHIEF CONSTABLE'S BRIEFING WITH OPERATIONAL STAFF ENGAGED ON F. A. CUP SEMIFINAL DUTIES', 16 April 1989, ` | 0 | 'NOTES FROM THE CHIEF CONSTABLE'S BRIEFING WITH OPERATIONAL STAFF ENGAGED ON F. A. CUP SEMIFINAL DUTIES', 16 April 1989, SYP000096360001, p41. |
+| possible | edition note text not in the PDF | `SOUTH YORKSHIRE POLICE BRIEFING 12 NOON SUNDAY 16.4.1989', 16 April 1989, SYP000010040001 , p9` | 0 | 'SOUTH YORKSHIRE POLICE BRIEFING 12 NOON SUNDAY 16.4.1989', 16 April 1989, SYP000010040001 , p9. |
+| possible | edition note text not in the PDF | `TO HER MAJESTY'S ATTORNEY GENERAL: THE HUMBLE MEMORIAL OF SANDRA STRINGER AND DONNA CARLILE (the mother and sister of Pa` | 0 | 'TO HER MAJESTY'S ATTORNEY GENERAL: THE HUMBLE MEMORIAL OF SANDRA STRINGER AND DONNA CARLILE (the mother and sister of Paul Carlile) JOHN AND THERESA GLOVER (the father and mother of Ian Glover) JOAN SINCLAIR (the sister of Michael Kelly) LESLIE AND DOREEN JONES (the father and mother of Richard Jones) PETER AND JOAN TOOTLE (the father and mother of Peter Tootle) JAMES STEPHEN AND ANNE WILLIAMS (the father and mother of Kevin Williams)', 15 April 1992, AGO000000070001, p11 and p23. |
+| possible | edition note text not in the PDF | `Memorandum from SJ Wooler to the` | 0 | Memorandum from SJ Wooler to the Attorney General, 31 July 1992, AGO000000140001, pp11-12 an |
+| possible | edition note text not in the PDF | `IN THE MATTER of AN APPLICATION FOR JUDICIAL REVIEW BETWEEN: REGINA - and - HER MAJESTY'S CORONER FOR SOUTH YORKSHIRE Ex` | 0 | 'IN THE MATTER of AN APPLICATION FOR JUDICIAL REVIEW BETWEEN: REGINA - and - HER MAJESTY'S CORONER FOR SOUTH YORKSHIRE Ex parte STRINGER AND OTHERS AFFIDAVIT OF STEFAN LEOPOLD POPPER', 10 September 1993, SYC000001280001, p14. |
+| possible | edition note text not in the PDF | `IN THE MATTER OF AN APPLICATION FOR A JUDICIAL REVIEW BETWEEN: REGINA HER MAJESTY'S CORONER FOR SOUTH YORKSHIRE EX PARTE` | 0 | 'IN THE MATTER OF AN APPLICATION FOR A JUDICIAL REVIEW BETWEEN: REGINA HER MAJESTY'S CORONER FOR SOUTH YORKSHIRE EX PARTE STRINGER AND OTHERS AFFIDAVIT of Albert Page', September 1993 [date unspecified], SCC000000350001, pp39-47. |
+| possible | edition note text not in the PDF | `To the Solicitor General, Application under Section 13 of the Coroners Act 1988', 13 March 1996, AGO000000480001, p7` | 0 | 'To the Solicitor General, Application under Section 13 of the Coroners Act 1988', 13 March 1996, AGO000000480001, p7. |
+| possible | PDF text not in the edition | `1. Statement of football supporter Gary Vaux, 14 May 1989, SYP000038700001, p75. These recollections are reiterated in V` | Vol 1 · PDF p.65 | 47 words: 1. Statement of football supporter Gary Vaux, 14 May 1989, SYP000038700001, p75. These recollections are reiterated in Vaux’s evidence to Lord Justice Taylor: see HOM000026190001, pp3-4. 2. Letter from a Tottenham Hotspur supporter to the Secretary of Liverpool FC, 20 April 1989, SYP000028950001, pp |
+| possible | PDF text not in the edition | `Compensation expenditure calculated from a briefing paper submitted to the Home Office in 1999, HOM000010130001, and con` | Vol 1 · PDF p.233 | 362 words: Compensation expenditure calculated from a briefing paper submitted to the Home Office in 1999, HOM000010130001, and confirmed by South Yorkshire Police Authority. Legal costs also confirmed by South Yorkshire Police Authority. The Hillsborough Disaster Appeal (key references are CMS000001000001 and |
+| possible | edition gap filled from the PDF | `Hillsborough The Report of the Hillsborough Independent Panel` | Vol 1 · PDF p.1 | before reference/raw/foreword-page-1.html: the front matter, which the website does not carry: 31 blocks, 394 words, 0 notes, from PDF p.1 to p.4 |
+| possible | edition gap filled from the PDF | `Recognition of the disaster 2.4.20 The first essential` | Vol 1 · PDF p.134 | ch4 pages 3-11 not captured: 167 blocks, 9742 words, 61 notes, from PDF p.134 to p.153 |
+| possible | edition gap filled from the PDF | `Claims on behalf of the bereaved and injured,` | Vol 1 · PDF p.226 | ch7 pages 2-14 not captured: 231 blocks, 12913 words, 72 notes, from PDF p.226 to p.251 |
+| possible | edition gap filled from the PDF | `The pre-inquest review 2.8.92 On 6 March Dr` | Vol 1 · PDF p.265 | between ch8 and ch9: any page of either not captured: 14 blocks, 1025 words, 4 notes, from PDF p.265 to p.266 |
+| possible | edition gap filled from the PDF | `Preparation for the generic stage of the inquests` | Vol 1 · PDF p.269 | ch9 pages 2-10 not captured: 124 blocks, 9798 words, 44 notes, from PDF p.269 to p.286 |
+| possible | edition gap filled from the PDF | `The continuing controversy 2.10.76 In December 1996, following` | Vol 1 · PDF p.298 | ch10 pages 7-10 not captured: 51 blocks, 4695 words, 30 notes, from PDF p.298 to p.305 |
+| possible | edition gap filled from the PDF | `The Police Federation responds to the Taylor Interim` | Vol 1 · PDF p.354 | ch12 pages 8-8 not captured: 44 blocks, 2519 words, 2 notes, from PDF p.354 to p.358 |
+| possible | edition gap filled from the PDF | `Public authorities` | Vol 1 · PDF p.366 | part-3 pages 3-4 not captured: 34 blocks, 1426 words, 2 notes, from PDF p.366 to p.369 |
+| possible | edition gap filled from the PDF | `Redaction Processing agreements were developed with all major` | Vol 1 · PDF p.378 | between appendix-2 and appendix-3: any page of either not captured: 14 blocks, 713 words, 0 notes, from PDF p.378 to p.379 |
+| possible | edition gap filled from the PDF | `Published by TSO (The Stationery Office) and available` | Vol 1 · PDF p.389 | after reference/raw/appendix-5-page-1.html: any page the website does not carry: 5 blocks, 99 words, 0 notes, from PDF p.389 to p.389 |

@@ -730,6 +730,339 @@
       "sha256": "4f50f277eb88e4216054d050eec8a1197bcc821213bc7745d93391e30e8ef53e",
       "bytes": 25177,
       "captured": "https://web.archive.org/web/20160317005738id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page-9/"
+    },
+    {
+      "path": "reference/raw/appendix-1-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-1/page-1/",
+      "sha256": "2b6b7c390c7c60ddcab1eccb2de0253eb956375ba21d5381ed0e09553d384a65",
+      "bytes": 16314,
+      "captured": "https://web.archive.org/web/20150915075559id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-1/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/appendix-1-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-1/page-2/",
+      "sha256": "04357cb56d4d4d7043cdd71c13b51f8771313c3c458ff153c331bf4b3b6fe0c8",
+      "bytes": 22510,
+      "captured": "https://web.archive.org/web/20160501234416id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-1/page-2/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/appendix-2-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-2/page-1/",
+      "sha256": "f8287a630a63b143da1bdddd6165b940985d26fef2192190ac301d0cf6321cb5",
+      "bytes": 23722,
+      "captured": "https://web.archive.org/web/20150915015928id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-2/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/appendix-3-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-3/",
+      "sha256": "554adc9adc5467a0c7cb8e86b5ecdc6ac0d9326707c47a1f2c2a2963004ddbf7",
+      "bytes": 21162,
+      "captured": "https://web.archive.org/web/20180513065348id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-3/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/appendix-3-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-3/page-2/",
+      "sha256": "68aae3a3d74d1f5a3561862d2902d93e2f86432b0efbf44a58124603d8402fb5",
+      "bytes": 17511,
+      "captured": "https://web.archive.org/web/20150321032947id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-3/page-2/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/appendix-4-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-4/page-1/",
+      "sha256": "0c53bd9f393f205b120b2ba3d79c25e48c342af59cf538e227708938bc53209e",
+      "bytes": 19459,
+      "captured": "https://web.archive.org/web/20150321033135id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-4/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/appendix-5-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-5/page-1/",
+      "sha256": "ba9d32882b5b6a0f10eede19c5a8b031a9764ce52792e9421b69d8959f2b8e1b",
+      "bytes": 22584,
+      "captured": "https://web.archive.org/web/20160710175521id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/appendix-5/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch10-page-12a.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page12a/",
+      "sha256": "9517fa0a5b0e7133c00365c675828fb40ba96ee9e47f9a61c60548cf90351534",
+      "bytes": 19190,
+      "captured": "https://web.archive.org/web/20170921001718id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-10/page12a/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch12-page-10a.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page10a",
+      "sha256": "4cfcccd1241a86209e0dd623215e892773fa6f6c4dd4b5d46f0969273176e9ec",
+      "bytes": 20870,
+      "captured": "https://web.archive.org/web/20160513074134id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-12/page10a/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch3-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page-10/",
+      "sha256": "9aa2fae93f0f049c3244ab58704906f66209412da17545a70211c150d81feb17",
+      "bytes": 29678,
+      "captured": "https://web.archive.org/web/20150318045250id_/http://hillsborough.independent.gov.uk:80/report/main-section/part-2/chapter-3/page-10",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch3-page-11a.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page11a/",
+      "sha256": "9ee6fe6a91a7d7de02cc3aa7a582d38fc18329ca8ce67f608ee543a2a4a972e4",
+      "bytes": 20039,
+      "captured": "https://web.archive.org/web/20160320011925id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-3/page11a/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch4-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/",
+      "sha256": "783e2d1014add8694f8997c73853e5752eb8ce17ea9d035b04dad3271ab26bbe",
+      "bytes": 18086,
+      "captured": "https://web.archive.org/web/20180513065218id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-4/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch6-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-10/",
+      "sha256": "1e68bc66a178bbfa423cd2451e4d38379aeb2a515d387739fd525d488abeb37c",
+      "bytes": 23131,
+      "captured": "https://web.archive.org/web/20150318045129id_/http://hillsborough.independent.gov.uk:80/report/main-section/part-2/chapter-6/page-10",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch6-page-16.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-16/",
+      "sha256": "7e0a2e9b85d2518533655438b730d4a0734dd42cf3ad3172ad03e53b703fe578",
+      "bytes": 21174,
+      "captured": "https://web.archive.org/web/20150318042917id_/http://hillsborough.independent.gov.uk:80/report/main-section/part-2/chapter-6/page-16",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch6-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-6/page-8/",
+      "sha256": "1195ac8734812fdfbae08cdcf7b5f0b0c8c6050795489e0bfb98d400d7a5e16a",
+      "bytes": 23090,
+      "captured": "https://web.archive.org/web/20150318045200id_/http://hillsborough.independent.gov.uk:80/report/main-section/part-2/chapter-6/page-8",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/ch9-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-9/",
+      "sha256": "97cb86b59020c4b65fd17ecbd71a3a5c358771fe2262823161b3cd8879eed80a",
+      "bytes": 17623,
+      "captured": "https://web.archive.org/web/20180513065450id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/chapter-9/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/foreword-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/bishops-intro/page-1/",
+      "sha256": "d79350ecb46bcb581385adc952a4cfcb082cdb1c8c871fe2fc3e79f37242c244",
+      "bytes": 19877,
+      "captured": "https://web.archive.org/web/20171120073525id_/http://hillsborough.independent.gov.uk/report/Section-1/bishops-intro/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/part-1-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-1/page-2",
+      "sha256": "2ed17e02cc257ec5b98c14ffa9b9596418e271e3273fcbdd8b7ce67643b5f7d2",
+      "bytes": 22580,
+      "captured": "https://web.archive.org/web/20120914233352id_/http://hillsborough.independent.gov.uk:80/report/main-section/part-1/page-2",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/part-2-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/page-1",
+      "sha256": "3b86e2d9e0b0a90406f522f66489dee2008280dcbfaed78c7ff42a2d35ee8877",
+      "bytes": 18799,
+      "captured": "https://web.archive.org/web/20171120045911id_/http://hillsborough.independent.gov.uk/report/main-section/part-2/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/part-3-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-3",
+      "sha256": "ad8b61e139aa1fd52fd5697d1757d066d850c0d7e3ca98934efe75b6f552c1f1",
+      "bytes": 21412,
+      "captured": "https://web.archive.org/web/20120914201609id_/http://hillsborough.independent.gov.uk:80/report/main-section/part-3",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/part-3-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-3/page2",
+      "sha256": "06191ff2dd1f25df70599296a01e4d4e2ecab9662564c14a1367e985c233305b",
+      "bytes": 19435,
+      "captured": "https://web.archive.org/web/20170110163157id_/http://hillsborough.independent.gov.uk/report/main-section/part-3/page2/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/part-3-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/main-section/part-3/page-5/",
+      "sha256": "0c35ce9aeeaf962aeca42058b3d27fad4fcf01c07912dcdda8397cab0c62c056",
+      "bytes": 18062,
+      "captured": "https://web.archive.org/web/20150915030825id_/http://hillsborough.independent.gov.uk/report/main-section/part-3/page-5/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/part-4-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/page-1/",
+      "sha256": "acc50fb1b2e2d75357575c88156a2501361fe5e4b922749a60f6cb4219d63eb0",
+      "bytes": 14793,
+      "captured": "https://web.archive.org/web/20160501235228id_/http://hillsborough.independent.gov.uk/report/appendices/part-4/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-1.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-1",
+      "sha256": "5c67d21030742d52f938667ac47a374a300ab8e70f65bea0d4713b58b993893f",
+      "bytes": 17637,
+      "captured": "https://web.archive.org/web/20180513001536id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-1/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-10.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-10",
+      "sha256": "0c926ae2e750065840514a3c209831ab5af90a010f5b7080701b147a5095b8a9",
+      "bytes": 16851,
+      "captured": "https://web.archive.org/web/20160703170356id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-10/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-11.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-11",
+      "sha256": "e8325d37a0cfe987b76df489a15138830e2e07ad4d95018954b65ebb299368ac",
+      "bytes": 18922,
+      "captured": "https://web.archive.org/web/20160701034414id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-11/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-12.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-12",
+      "sha256": "855e114ec3a531a1e5c25149d9b4eb35e217ee4ed4d5a82bae82cccd46299359",
+      "bytes": 19373,
+      "captured": "https://web.archive.org/web/20120914201457id_/http://hillsborough.independent.gov.uk:80/report/Section-1/summary/page-12",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-13.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-13",
+      "sha256": "95ea98d730bb1f8819746b9bf423288698db246b0b94bc143d46bc46773ce1ca",
+      "bytes": 20449,
+      "captured": "https://web.archive.org/web/20120914200505id_/http://hillsborough.independent.gov.uk:80/report/Section-1/summary/page-13",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-14.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-14",
+      "sha256": "fc3544fa4ad8c756e606056d50ae6f57e3b5e3659c074f730450f442f09ff3b9",
+      "bytes": 21915,
+      "captured": "https://web.archive.org/web/20120914201501id_/http://hillsborough.independent.gov.uk:80/report/Section-1/summary/page-14",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-2.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-2",
+      "sha256": "0ca164b5c2008dccb3b0157289a8cda14be85b4c0ad130438d0e15489e9bba47",
+      "bytes": 19323,
+      "captured": "https://web.archive.org/web/20180613151947id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-2/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-3.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-3",
+      "sha256": "35bc078b20950f6134808a064dca0ece75dbf3a82234207956421ed48a294a26",
+      "bytes": 21635,
+      "captured": "https://web.archive.org/web/20120914200510id_/http://hillsborough.independent.gov.uk:80/report/Section-1/summary/page-3",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-4.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-4",
+      "sha256": "55abe9e720184a24758681c7828a8113a7a1c26fe3856dc1d3f8190a5f8f7eca",
+      "bytes": 19717,
+      "captured": "https://web.archive.org/web/20120914200515id_/http://hillsborough.independent.gov.uk:80/report/Section-1/summary/page-4",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-5.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-5",
+      "sha256": "54d012ba435481aa17567a23edda577f0fa323ead425e5f1bd5367a019eb9b3f",
+      "bytes": 21435,
+      "captured": "https://web.archive.org/web/20120914201506id_/http://hillsborough.independent.gov.uk:80/report/Section-1/summary/page-5",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-6.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-6",
+      "sha256": "a7cb838b877f40ceddbd15ab1a8d084bb84d831b0777d364b9eaca7199f521a3",
+      "bytes": 21961,
+      "captured": "https://web.archive.org/web/20170129150618id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-6/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-7.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-7",
+      "sha256": "46650252f19e5abb615c3ad4f94c66f04f56df5962c2ee267b017aec24e6ca72",
+      "bytes": 20119,
+      "captured": "https://web.archive.org/web/20160703172039id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-7/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-8.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-8",
+      "sha256": "d1833841b2643a4c37ff8394088e9c06ff42ecb18ddd80819be87b1ad80a9a71",
+      "bytes": 22072,
+      "captured": "https://web.archive.org/web/20160619121930id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-8/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
+    },
+    {
+      "path": "reference/raw/summary-page-9.html",
+      "url": "https://web.archive.org/web/2id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-9",
+      "sha256": "a014214e5892cb7fdd7affd69d01c8b988b21b5d4abbff471c1c81552e60087d",
+      "bytes": 16683,
+      "captured": "https://web.archive.org/web/20160701092750id_/http://hillsborough.independent.gov.uk/report/Section-1/summary/page-9/",
+      "fetched": "2026-10-03",
+      "note": "fetched for the served hybrid (reportsthatmatter-ivg.3); not in blocks.jsonl as built on 2026-10-02"
     }
   ],
   "sources_note": "The reference is derived from the source PDF already in archive/, so no copy is kept under reference/raw/.",
@@ -751,6 +1084,7 @@
   "caveats": [
     "A hybrid. The website HTML holds each paragraph in its own element, so unnumbered paragraphs are separate, footnotes are linked and a paragraph is never cut at a page break. Wayback holds about two thirds of its pages (chapters 4, 7, 8 and 9 are mostly missing): a stretch whose printed paragraph numbers the HTML has is taken from the HTML, the rest from the PDF's tags.",
     "The tags put one /P element around all the paragraphs between headings on a page: split at printed paragraph numbers (2.1.60), so unnumbered paragraphs inside one element are not separated in the stretches taken from the tags.",
-    "In the tags a fragment that continues an unfinished paragraph (past the page's notes) is joined to it, whatever its first letter; footnotes sit inside the page's /P in the note size (9 pt against 12 pt) and are taken out by size."
+    "In the tags a fragment that continues an unfinished paragraph (past the page's notes) is joined to it, whatever its first letter; footnotes sit inside the page's /P in the note size (9 pt against 12 pt) and are taken out by size.",
+    "2026-10-03 (reportsthatmatter-ivg.3): 37 more website pages fetched from Wayback (the Foreword, the Report summary, Part 1 page 2, Part 2's introduction, Part 3, the appendices, and chapter pages 3.10, 3.11a, 4.1, 6.8, 6.10, 6.16, 9.1, 10.12a, 12.10a), several only in 2012-2015 captures (later ones are 503 error pages). The served text (ingest.ts, cleanEdition) reads them. The scoring reference (blocks.jsonl, built 2026-10-02) is unchanged, so a score against it is not inflated by them; but reference.py's build lists the directory, so rebuilding it would take in the new part- and ch- pages and make reference and served text share more of their source: rebuild it only knowingly. The website edition is the report as the Panel published it online, Crown copyright under the Open Government Licence v3.0, like the PDF."
   ]
 }

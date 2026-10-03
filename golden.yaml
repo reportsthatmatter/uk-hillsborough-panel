@@ -9,8 +9,6 @@ pages:
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     note: "agrees with reference/adjudicated.yaml: page 35 opens a new block (split)"
     features: [I, ordinary]
-    xfail: reportsthatmatter-a8l
-    xfail_only: [blocks]
     blocks:
       - heading: "Ibrox Park 1971 and the Wheatley Report"
       - paragraph: {start: "1.28 In January 1971 66 spectators died", end: "at the foot of the stairwell."}
@@ -31,8 +29,6 @@ pages:
     printed: 32
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, ordinary]
-    xfail: reportsthatmatter-a8l
-    xfail_only: [blocks]
     blocks:
       - paragraph: {start: "1.47 It was well established that spectators gravitated", end: "sought to eliminate was compounded."}
       - paragraph: {start: "1.48 An added complication for semi-final matches", end: "within the stadium."}
@@ -52,8 +48,6 @@ pages:
     printed: 61
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I, K]
-    xfail: reportsthatmatter-a8l
-    xfail_only: [blocks]
     blocks:
       - heading: "Chapter 1 1981–1989: unheeded warnings, the seeds of disaster"
       - heading: "Introduction"
@@ -67,8 +61,6 @@ pages:
     printed: 87
     verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
     features: [I]
-    xfail: reportsthatmatter-a8l
-    xfail_only: [blocks, must_read]
     blocks:
       - heading: "Chapter 2 The ‘moment’ of 1989"
       - heading: "Introduction"
@@ -85,10 +77,8 @@ pages:
   # Eight numbered paragraphs with nine superscript markers, a maroon subhead "After the crush", and notes 53-60 numbered "53." at the foot.
   - pdf: 100
     printed: 97
-    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image"
+    verified_by: "Claude (Sonnet 5.5), 2026-10-02, against the page image; last block corrected 2026-10-03 against page 98's image (ivg.3)"
     features: [E, F, I]
-    xfail: reportsthatmatter-a8l, reportsthatmatter-b94
-    xfail_only: [blocks, footnotes, markers, must_not_contain]
     blocks:
       - paragraph: {start: "2.2.76 There remains some discrepancy about who opened Gate B", end: "crush outside.", notes: [53, 54]}
       - paragraph: {start: "2.2.77 By 2.45pm the tunnel was three-quarters full", end: "side of the west stand’.", notes: [55, 56]}
@@ -98,7 +88,9 @@ pages:
       - paragraph: {start: "2.2.80 Meanwhile, Supt Greenwood was unaware", end: "this was not possible."}
       - paragraph: {start: "2.2.81 Supt Greenwood waved to the Control Box", end: "rescue and evacuation.", notes: [58]}
       - paragraph: {start: "2.2.82 An urgent radio message requested all available officers", end: "could be fatalities.", notes: [59]}
-      - paragraph: {start: "2.2.83 On Supt Murray’s arrival back at the Control Box", end: "not carrying a radio.", notes: [60]}
+      # Continues: page 98 opens on its unnumbered tail ("Supt Murray then contacted various officers …"), with no space above,
+      # and every paragraph of this report opens on its number; the panel's website sets both halves as one paragraph (ivg.3).
+      - paragraph: {start: "2.2.83 On Supt Murray’s arrival back at the Control Box", continues: true, notes: [60]}
     footnotes: [53, 54, 55, 56, 57, 58, 59, 60]
     markers: [53, 54, 55, 56, 57, 58, 59, 60]
     must_not_contain: ["Recollection of PC Smith, 19 April 1989, SYP000096810001"]
