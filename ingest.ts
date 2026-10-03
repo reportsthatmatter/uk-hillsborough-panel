@@ -11,6 +11,7 @@ import {
   numberedHeadings,
   allCapsHeadings,
   footnoteNumbers,
+  sequencedNoteOpenings,
   layoutMarkers,
   typographicHeadings,
 } from "@rtm/ingest";
@@ -210,6 +211,11 @@ export default pipeline({
     // as the bare "104 Letter" style, none was found and all 1,069 were printed
     // in the body, their markers bare (reportsthatmatter-ivg.3).
     footnoteNumbers("period"),
+    // A note whose text opens on a single quotation mark, a bracket or a
+    // digit ("15. ‘SOUTH YORKSHIRE…", "19. [1992] 1 A.C. 310", "17. 31 July
+    // 1990") was read as the note above's text, or the page's notes printed
+    // in the body, and its marker left bare (reportsthatmatter-kgpr).
+    sequencedNoteOpenings(),
     // The markers are raised digits ("delay.104"); notes restart in every
     // chapter, so only the layout can say which digits are markers.
     layoutMarkers(),
