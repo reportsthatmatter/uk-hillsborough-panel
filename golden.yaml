@@ -94,3 +94,42 @@ pages:
     footnotes: [53, 54, 55, 56, 57, 58, 59, 60]
     markers: [53, 54, 55, 56, 57, 58, 59, 60]
     must_not_contain: ["Recollection of PC Smith, 19 April 1989, SYP000096810001"]
+  # PDF-filled stretch (chapter 4, no web page): a 26pt maroon subhead and two 21pt ones among numbered paragraphs, each of which the text reading ran into the paragraph after it (a8l).
+  - pdf: 134
+    printed: 133
+    verified_by: "Claude (Sonnet 5.5), 2026-10-03, against the page image"
+    features: [I]
+    blocks:
+      - paragraph: {start: "2.4.18 The first moments of a major disaster", end: "enduring emotional and physical exhaustion."}
+      - paragraph: {start: "2.4.19 Eye-witness accounts of the immediate aftermath", end: "be considered within this context."}
+      - heading: "Recognition of the disaster"
+      - paragraph: {start: "2.4.20 The first essential requirement was", end: "witnessing the throes of disaster."}
+      - paragraph: {start: "2.4.21 Eye-witness accounts confirm that a major factor", end: "of actual or impending hooliganism."}
+      - paragraph: {start: "2.4.22 Even before the match kicked off", end: "or told to be quiet."}
+      - heading: "What happened after 3pm"
+      - paragraph: {start: "2.4.23 Lack of recognition of the seriousness", end: "people already being fatally crushed."}
+      - paragraph: {start: "2.4.24 Inevitably, spectators within the pens", end: "disturbance due to bad behaviour."}
+      - paragraph: {start: "2.4.25 Although the Match Commander", end: "and an attempted pitch invasion."}
+      - heading: "Ambulance Service presence at Hillsborough"
+      - paragraph: {start: "2.4.26 That the police were unduly concerned", end: "the police and football fans."}
+    footnotes: []
+    markers: []
+  # PDF-filled stretch between Appendix 2 and 3: a 26pt maroon subhead before unnumbered paragraphs and bulleted lists (no paragraph number to mark where the heading stops).
+  - pdf: 378
+    printed: 384
+    verified_by: "Claude (Sonnet 5.5), 2026-10-03, against the page image"
+    features: [I]
+    blocks:
+      - paragraph: {start: "In keeping with the Panel’s terms of reference and protocol", end: "archivists working with the Panel."}
+      - heading: "Redaction"
+      - paragraph: {start: "Processing agreements were developed with all", end: "necessary protection of identities of:"}
+      - list: {start: "members of the public who provided", end: "the aftermath of the disaster.", items: 4}
+      - paragraph: {start: "The Panel accepts that inconsistencies might occur", end: "of documents and other material."}
+      - paragraph: {start: "Individual members of the Panel reviewed", end: "the Panel’s own redaction framework."}
+      - paragraph: {start: "The Panel’s terms of reference and protocol committed", end: "Limited exceptions, however, were recognised:"}
+      - list: {start: "information covered by legal professional privilege", end: "convention of Cabinet collective responsibility.", items: 3}
+      - paragraph: {start: "Decisions to withhold information from the", end: "basis by the holding agency."}
+      - paragraph: {start: "No information held by government has been withheld", end: "unredacted disclosure of Cabinet minutes."}
+      - paragraph: {start: "In all but two cases, information that could", continues: true}
+    footnotes: []
+    markers: []

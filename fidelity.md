@@ -2,7 +2,7 @@
 
 Pages: 389  ·  Footnotes: 1015  ·  Auto-fixes applied: 0  ·  Human corrections: 0
 
-**55 open**, 0 reviewed and judged correct.
+**54 open**, 0 reviewed and judged correct.
 
 OCR suspects below are a **review queue, not errors**. Whether the text is
 faithful to the scan is a human judgement; these are the places most likely
@@ -28,7 +28,6 @@ file under `dismissed:` and the entry leaves this queue for good.
 | possible | edition text not in the PDF | `Figure 7: Route and time of entry of those who died. As Figure 6, showing blood alcohol readings` | Vol 1 · PDF p.173 | Figure 7: Route and time of entry of those who died. As Figure 6, showing blood alcohol readings. |
 | possible | edition text not in the PDF | `Conclusion: What is added to public understanding` | Vol 1 · PDF p.177 | Conclusion: What is added to public understanding |
 | possible | edition text not in the PDF | `It was inevitable, reported` | Vol 1 · PDF p.195 | at [per turnstile] of the 42 turnstiles in Penistone Road'. It was inevitable, reported the HSE, that in accommodating a capacity attendance, 'larg |
-| possible | edition text not in the PDF | `Conclusion: what` | Vol 1 · PDF p.251 | Conclusion: what |
 | possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.308 | Conclusion: what is added to public understanding |
 | possible | edition text not in the PDF | `Conclusion: what is added to public understanding` | Vol 1 · PDF p.360 | Conclusion: what is added to public understanding |
 | possible | edition text not in the PDF | `Christine Gifford` | Vol 1 · PDF p.375 | Christine Gifford |
@@ -62,12 +61,12 @@ file under `dismissed:` and the entry leaves this queue for good.
 | possible | PDF text not in the edition | `1. Statement of football supporter Gary Vaux, 14 May 1989, SYP000038700001, p75. These recollections are reiterated in V` | Vol 1 · PDF p.65 | 47 words: 1. Statement of football supporter Gary Vaux, 14 May 1989, SYP000038700001, p75. These recollections are reiterated in Vaux’s evidence to Lord Justice Taylor: see HOM000026190001, pp3-4. 2. Letter from a Tottenham Hotspur supporter to the Secretary of Liverpool FC, 20 April 1989, SYP000028950001, pp |
 | possible | PDF text not in the edition | `Compensation expenditure calculated from a briefing paper submitted to the Home Office in 1999, HOM000010130001, and con` | Vol 1 · PDF p.233 | 362 words: Compensation expenditure calculated from a briefing paper submitted to the Home Office in 1999, HOM000010130001, and confirmed by South Yorkshire Police Authority. Legal costs also confirmed by South Yorkshire Police Authority. The Hillsborough Disaster Appeal (key references are CMS000001000001 and |
 | possible | edition gap filled from the PDF | `Hillsborough The Report of the Hillsborough Independent Panel` | Vol 1 · PDF p.1 | before reference/raw/foreword-page-1.html: the front matter, which the website does not carry: 31 blocks, 394 words, 0 notes, from PDF p.1 to p.4 |
-| possible | edition gap filled from the PDF | `Recognition of the disaster 2.4.20 The first essential` | Vol 1 · PDF p.134 | ch4 pages 3-11 not captured: 167 blocks, 9742 words, 61 notes, from PDF p.134 to p.153 |
-| possible | edition gap filled from the PDF | `Claims on behalf of the bereaved and injured,` | Vol 1 · PDF p.226 | ch7 pages 2-14 not captured: 231 blocks, 12913 words, 72 notes, from PDF p.226 to p.251 |
-| possible | edition gap filled from the PDF | `The pre-inquest review 2.8.92 On 6 March Dr` | Vol 1 · PDF p.265 | between ch8 and ch9: any page of either not captured: 14 blocks, 1025 words, 4 notes, from PDF p.265 to p.266 |
-| possible | edition gap filled from the PDF | `Preparation for the generic stage of the inquests` | Vol 1 · PDF p.269 | ch9 pages 2-10 not captured: 124 blocks, 9798 words, 44 notes, from PDF p.269 to p.286 |
-| possible | edition gap filled from the PDF | `The continuing controversy 2.10.76 In December 1996, following` | Vol 1 · PDF p.298 | ch10 pages 7-10 not captured: 51 blocks, 4695 words, 30 notes, from PDF p.298 to p.305 |
-| possible | edition gap filled from the PDF | `The Police Federation responds to the Taylor Interim` | Vol 1 · PDF p.354 | ch12 pages 8-8 not captured: 44 blocks, 2519 words, 2 notes, from PDF p.354 to p.358 |
-| possible | edition gap filled from the PDF | `Public authorities` | Vol 1 · PDF p.366 | part-3 pages 3-4 not captured: 34 blocks, 1426 words, 2 notes, from PDF p.366 to p.369 |
-| possible | edition gap filled from the PDF | `Redaction Processing agreements were developed with all major` | Vol 1 · PDF p.378 | between appendix-2 and appendix-3: any page of either not captured: 14 blocks, 713 words, 0 notes, from PDF p.378 to p.379 |
+| possible | edition gap filled from the PDF | `Recognition of the disaster` | Vol 1 · PDF p.134 | ch4 pages 3-11 not captured: 191 blocks, 9742 words, 61 notes, from PDF p.134 to p.153 |
+| possible | edition gap filled from the PDF | `Claims on behalf of the bereaved and injured,` | Vol 1 · PDF p.226 | ch7 pages 2-14 not captured: 246 blocks, 12911 words, 72 notes, from PDF p.226 to p.251 |
+| possible | edition gap filled from the PDF | `The pre-inquest review` | Vol 1 · PDF p.265 | between ch8 and ch9: any page of either not captured: 17 blocks, 1025 words, 4 notes, from PDF p.265 to p.266 |
+| possible | edition gap filled from the PDF | `Preparation for the generic stage of the inquests` | Vol 1 · PDF p.269 | ch9 pages 2-10 not captured: 133 blocks, 9796 words, 44 notes, from PDF p.269 to p.286 |
+| possible | edition gap filled from the PDF | `The continuing controversy` | Vol 1 · PDF p.298 | ch10 pages 7-10 not captured: 56 blocks, 4695 words, 30 notes, from PDF p.298 to p.305 |
+| possible | edition gap filled from the PDF | `The Police Federation responds to the Taylor Interim` | Vol 1 · PDF p.354 | ch12 pages 8-8 not captured: 47 blocks, 2519 words, 2 notes, from PDF p.354 to p.358 |
+| possible | edition gap filled from the PDF | `Public authorities` | Vol 1 · PDF p.366 | part-3 pages 3-4 not captured: 36 blocks, 1426 words, 2 notes, from PDF p.366 to p.369 |
+| possible | edition gap filled from the PDF | `Redaction` | Vol 1 · PDF p.378 | between appendix-2 and appendix-3: any page of either not captured: 17 blocks, 713 words, 0 notes, from PDF p.378 to p.379 |
 | possible | edition gap filled from the PDF | `Published by TSO (The Stationery Office) and available` | Vol 1 · PDF p.389 | after reference/raw/appendix-5-page-1.html: any page the website does not carry: 5 blocks, 99 words, 0 notes, from PDF p.389 to p.389 |

@@ -12,6 +12,7 @@ import {
   allCapsHeadings,
   footnoteNumbers,
   layoutMarkers,
+  typographicHeadings,
 } from "@rtm/ingest";
 
 /**
@@ -212,6 +213,10 @@ export default pipeline({
     // The markers are raised digits ("delay.104"); notes restart in every
     // chapter, so only the layout can say which digits are markers.
     layoutMarkers(),
+    // Subsection headings are maroon sans-serif lines (26pt, 21pt) with no textual convention
+    // (pdftotext sets the line on its own, the block parser reads it into the next paragraph).
+    // The layout has face and size; the largest face is the chapter title (level 3), as on the site.
+    typographicHeadings({ firstLevel: 3 }),
     runningFurniture({ numbersTrackPages: true }),
     quoteInset(10),
     numberedParagraphs(),
