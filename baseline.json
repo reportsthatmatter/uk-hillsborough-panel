@@ -1,11 +1,11 @@
 {
-  "markdownSha": "6fdd1efcc0b744df5d7924e37b3e732003709d433d300752d73ddd1bc3a9fbe6",
-  "words": 200780,
+  "markdownSha": "c55da240937c73d66b20eb962c2ecddd2e1ba9373228493972e41b85d0c8c703",
+  "words": 201233,
   "blocks": {
     "heading": 380,
     "quote": 187,
     "list": 279,
-    "paragraph": 2724
+    "paragraph": 2721
   },
   "headings": [
     "Foreword",
@@ -389,7 +389,7 @@
     "BBC disclosure of Cabinet papers",
     "Notes"
   ],
-  "footnotes": 1015,
+  "footnotes": 1046,
   "pageMarkers": 371,
   "poppler": "26.08.0"
 }
