@@ -206,7 +206,9 @@ export default pipeline({
     // A paragraph run over a page break that opens on a capital, a digit or a
     // quotation mark (or follows a full stop on a justified page) joins when the
     // layout says it runs on: no first-line indent, same face (reportsthatmatter-38s.10).
-    layoutPageJoins(),
+    // numberedBody (shadow only; the served text is the edition): every body paragraph is numbered, so an
+    // unnumbered page opening carries on the one above (2.2.83 p.101, 2.10.151 p.308, as the edition has them).
+    layoutPageJoins({ numberedBody: true }),
     // Page-foot notes are numbered "104. Letter from…", with a full stop: read
     // as the bare "104 Letter" style, none was found and all 1,069 were printed
     // in the body, their markers bare (reportsthatmatter-ivg.3).
