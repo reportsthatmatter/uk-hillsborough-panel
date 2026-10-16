@@ -1,0 +1,32 @@
+Licences in this repository
+===========================
+
+This repository holds a public report, the text we derive from it, and the code that builds that text. They have three different statuses. This file is a statement of those statuses, not legal advice.
+
+1. The report's text
+--------------------
+
+We have not been able to confirm the licence of this report, and we do not say it is under the Open Government Licence. The evidence conflicts:
+
+- The imprint of the report (HC 581, September 2012) says: "© Hillsborough Independent Panel 2012. All intellectual property rights for this report belong to Hillsborough Independent Panel and/or third parties (which may include you or other users). Nothing in these terms grants you a right or licence to use any of the intellectual property rights owned or controlled by the Hillsborough Independent Panel without the prior written permission of the Editor-in-Chief."
+
+- The Panel's website edition (the Wayback Machine copies in reference/raw/) carries "© Crown Copyright 2012" in its footer.
+
+- GOV.UK, where the PDF is hosted, states in its site footer that "all content is available under the Open Government Licence v3.0, except where otherwise stated"; the report states otherwise.
+
+We serve the report as a public-interest document of a public inquiry, with its source and the Panel named. If you hold rights and object, open an issue on this repository. This is recorded as an open question (reportsthatmatter-y2y8.9).
+
+2. Our markup, processing and editorial additions
+-------------------------------------------------
+
+The structure and Markdown formatting of full.md, paragraph and section identifiers, corrections.yaml, golden.yaml, baseline.json, fidelity.md, PROCESSING.md, datapackage.json, the README and any other words we wrote are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0, https://creativecommons.org/licenses/by/4.0/legalcode). Attribute them to "Reports that Matter (https://reportsthatmatter.org)". This does not change the status of the report's own text, described in section 1, which we do not own.
+
+3. Code
+-------
+
+The code that builds the text (ingest.ts and other TypeScript, JavaScript and Python files, and package.json) is licensed under the MIT licence; see LICENSE-MIT, Copyright (c) 2026 Rufus Pollock and contributors.
+
+Other files
+-----------
+
+Files under reference/ are copies of other editions of the report, kept to measure our text. They keep the licence recorded for them (in reference/manifest.json where one exists, or section 1 where this file says so) and are not covered by sections 2 and 3.
