@@ -15,7 +15,7 @@ The served text comes from the Panel's own website edition of the report (`refer
 
 ## Licence
 
-Text of the report: Status not confirmed. The report's imprint reserves rights to the Hillsborough Independent Panel; GOV.UK and the Panel's website say Crown copyright. Our markup, processing and editorial additions: CC BY 4.0. Code: MIT. Evidence, caveats and the full statement are in [LICENSE](LICENSE); the MIT text is in [LICENSE-MIT](LICENSE-MIT).
+Text of the report: not under an open licence that we can find. The report's imprint and the Panel's website terms reserve the rights in the report to the Hillsborough Independent Panel; the website's footer says Crown copyright and GOV.UK offers the Open Government Licence "except where otherwise stated". Our markup, processing and editorial additions: CC BY 4.0. Code: MIT. Evidence, caveats and the full statement are in [LICENSE](LICENSE); the MIT text is in [LICENSE-MIT](LICENSE-MIT).
 
 ## Build
 

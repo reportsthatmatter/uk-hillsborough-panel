@@ -2,7 +2,7 @@
   "report": "uk-hillsborough-panel",
   "set": "held-out",
   "edition": "The panel website's HTML (Wayback captures) where captured, and the PDF's own structure tree (tagged PDF, InDesign styles) for the rest",
-  "licence": "Not confirmed: the website footer says \"© Crown Copyright 2012\"; the PDF imprint says \"© Hillsborough Independent Panel 2012\" and reserves the rights. See ../LICENSE.",
+  "licence": "Not under an open licence that we can find: the website footer says \"© Crown Copyright 2012\", but the PDF imprint (\"© Hillsborough Independent Panel 2012\") and the website's terms of use reserve the rights in the report to the Panel. See ../LICENSE.",
   "fetched": "2026-10-02",
   "sources": [
     {

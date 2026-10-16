@@ -6,15 +6,15 @@ This repository holds a public report, the text we derive from it, and the code 
 1. The report's text
 --------------------
 
-We have not been able to confirm the licence of this report, and we do not say it is under the Open Government Licence. The evidence conflicts:
+This report is not under an open licence that we can find, and we do not say it is under the Open Government Licence. The Panel's own notices reserve its rights in the report:
 
-- The imprint of the report (HC 581, September 2012) says: "© Hillsborough Independent Panel 2012. All intellectual property rights for this report belong to Hillsborough Independent Panel and/or third parties (which may include you or other users). Nothing in these terms grants you a right or licence to use any of the intellectual property rights owned or controlled by the Hillsborough Independent Panel without the prior written permission of the Editor-in-Chief."
+- The imprint of the report (HC 581, September 2012) says: "© Hillsborough Independent Panel 2012. All intellectual property rights for this report belong to Hillsborough Independent Panel and/or third parties (which may include you or other users). Nothing in these terms grants you a right or licence to use any of the intellectual property rights owned or controlled by the Hillsborough Independent Panel without the prior written permission of the Editor-in-Chief".
 
-- The Panel's website edition (the Wayback Machine copies in reference/raw/) carries "© Crown Copyright 2012" in its footer.
+- The Panel's website (hillsborough.independent.gov.uk; its "Copyright, acknowledgements and terms of use" page as the Wayback Machine kept it on 22 February 2014, https://web.archive.org/web/20140222031352/http://hillsborough.independent.gov.uk/terms-conditions/) offers the Open Government Licence only for "material on this website covered by Crown Copyright (excluding logos)", and goes on: "All other intellectual property rights belong to the Hillsborough Independent Panel and/or third parties (which may include you or other users). In particular this relates to the Panel's Report."
 
-- GOV.UK, where the PDF is hosted, states in its site footer that "all content is available under the Open Government Licence v3.0, except where otherwise stated"; the report states otherwise.
+- The website's pages, including the website edition of the report in reference/raw/, carry "© Crown Copyright 2012" in their footer, and GOV.UK, which hosts the PDF, says in its site footer that its content is available under the Open Government Licence v3.0 "except where otherwise stated". The two notices above are where it is otherwise stated.
 
-We serve the report as a public-interest document of a public inquiry, with its source and the Panel named. If you hold rights and object, open an issue on this repository. This is recorded as an open question (reportsthatmatter-y2y8.9).
+We have not asked for, and do not hold, the permission the imprint asks for. The Panel no longer exists; its website was a Home Office site (its page titles end "| Home Office"), so the Home Office is where we would ask. We serve the report as a public-interest document of a public inquiry, with its source and the Panel named. If you hold rights and object, open an issue on this repository. This is recorded as an open question (reportsthatmatter-y2y8.9).
 
 2. Our markup, processing and editorial additions
 -------------------------------------------------
@@ -28,5 +28,7 @@ The code that builds the text (ingest.ts and other TypeScript, JavaScript and Py
 
 Other files
 -----------
+
+Files under archive/ are copies of the report as its publisher issued it, kept so the text can be rebuilt and checked; they have the status described in section 1.
 
 Files under reference/ are copies of other editions of the report, kept to measure our text. They keep the licence recorded for them (in reference/manifest.json where one exists, or section 1 where this file says so) and are not covered by sections 2 and 3.
