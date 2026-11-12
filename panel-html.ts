@@ -166,7 +166,10 @@ export function readPanelHtml(files: Array<{ path: string; text: string }>, diag
       if (/^Click here to /.test(text)) return;
       const nav = navText.replace(/\s+/g, " ").trim();
       navText = "";
-      if ((was === "item" || list) && nav && nav === text.replace(/\\/g, "")) return;
+      // Chapter 4's item closes its quotation mark after the link ("…to attend</a>'"): stray punctuation
+      // outside the link does not make the item report text (reportsthatmatter-j8kw).
+      const bare = (t: string) => t.replace(/[\s'‘’".,]+$/, "");
+      if ((was === "item" || list) && nav && bare(nav) === bare(text.replace(/\\/g, ""))) return;
       if (was === "item" && list) list.items.push(text);
       else if (quote) quote.push(text);
       else if (list) list.items.push(text);
