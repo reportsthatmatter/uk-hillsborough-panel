@@ -1,4 +1,6 @@
 import { readPanelHtml } from "./panel-html.ts";
+import { compositeFooterFolios } from "./composite-footer-folios.ts";
+import { numberedParagraphBreaks } from "./numbered-paragraph-breaks.ts";
 import {
   cleanEdition,
   layoutPageJoins,
@@ -227,8 +229,14 @@ export default pipeline({
     // (The 35pt face is a part or chapter title, which listedHeadings reads.)
     typographicHeadings({ firstLevel: 4, sizes: [26, 21] }),
     runningFurniture({ numbersTrackPages: true }),
+    // Part, chapter and appendix openers print the folio at the end of a footer
+    // unique to the page ("Part 2 Hillsborough: … 59"): read it there (reportsthatmatter-j8kw).
+    compositeFooterFolios(),
     quoteInset(10),
     numberedParagraphs(),
+    // Three-part numbers ("2.4.54") open every body paragraph; numberedParagraphs reads two-part ones only
+    // (reportsthatmatter-quam).
+    numberedParagraphBreaks(),
     // The report quotes press cuttings ("SHAME OF BOOZY YOBS") and legal
     // memorials with their own numbered paragraphs ("18. TO HER MAJESTY'S
     // ATTORNEY GENERAL...") that read as headings on their own. The
